@@ -1,0 +1,26 @@
+2016-03-15 15:06:33,837 [24] Orchard.Environment.DefaultBuildManager - (null) - Error when compiling assembly under ~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "EnlightmentSwords.FeaturedProduct" from file "/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj":
+Could not find file 'C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\Migrations.cs'. ---> Orchard.OrchardCoreException: Error compiling module "EnlightmentSwords.FeaturedProduct" from file "/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj":
+Could not find file 'C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\Migrations.cs'. ---> System.IO.FileNotFoundException: Could not find file 'C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\Migrations.cs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Web.Hosting.MapPathBasedVirtualFile.Open()
+   at Orchard.FileSystems.VirtualPath.DefaultVirtualPathProvider.OpenFile(String virtualPath) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\VirtualPath\DefaultVirtualPathProvider.cs:line 111
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.GetContents(String virtualPath) in C:\Projects\EnlightmentSwords\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 133
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.CreateCompileUnit(String virtualPath) in C:\Projects\EnlightmentSwords\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 121
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in C:\Projects\EnlightmentSwords\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 60
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in C:\Projects\EnlightmentSwords\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in C:\Projects\EnlightmentSwords\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 32
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in C:\Projects\EnlightmentSwords\src\Orchard\Environment\IBuildManager.cs:line 53
+2016-03-15 15:06:34,136 [24] Orchard.Environment.Extensions.ExtensionManager - (null) - No suitable loader found for extension "EnlightmentSwords.FeaturedProduct"

@@ -1,0 +1,11 @@
+﻿Name: EnlightmentSwords.FeaturedProduct
+AntiForgery: enabled
+Author: The Orchard Team
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Category: Enlight Swords Ltd
+Description: Description for Enlightment Swords module
+Features:
+    EnlightmentSwords.FeaturedProduct:
+        Description: EnlightmentSwords.FeaturedProduct details.

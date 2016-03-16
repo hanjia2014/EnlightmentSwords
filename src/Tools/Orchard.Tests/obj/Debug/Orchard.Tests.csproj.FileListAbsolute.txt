@@ -1,0 +1,11 @@
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Orchard.Tests.dll
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Orchard.Tests.pdb
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Moq.dll
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Orchard.exe
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Orchard.pdb
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Moq.pdb
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\bin\Debug\Moq.xml
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.dll
+C:\Projects\EnlightmentSwords\src\Tools\Orchard.Tests\obj\Debug\Orchard.Tests.pdb
