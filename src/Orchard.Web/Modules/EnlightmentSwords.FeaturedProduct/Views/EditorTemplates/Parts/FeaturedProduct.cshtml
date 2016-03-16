@@ -22,4 +22,11 @@
         @Html.TextBoxFor(model => model.Price)
         @Html.ValidationMessageFor(model => model.Price)
     </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.ImageUrl)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.ImageUrl)
+        @Html.ValidationMessageFor(model => model.ImageUrl)
+    </div>
 </fieldset>

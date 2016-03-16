@@ -29,7 +29,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.Featured
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\System.Web.Razor.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\System.Web.WebPages.Razor.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\System.Web.WebPages.xml
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\Microsoft.Web.Infrastructure.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\System.Web.Http.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\Autofac.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\Microsoft.Owin.xml
@@ -45,3 +44,5 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.Featured
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\obj\Debug\EnlightmentSwords.FeaturedProduct.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\obj\Debug\EnlightmentSwords.FeaturedProduct.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\obj\Debug\EnlightmentSwords.FeaturedProduct.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\System.Web.Helpers.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightmentSwords.FeaturedProduct\bin\System.Web.Helpers.xml

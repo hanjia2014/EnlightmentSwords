@@ -24,7 +24,9 @@ namespace EnlightmentSwords.FeaturedProduct
 				.Column("ImageUrl", DbType.String)
 			);
 
-            ContentDefinitionManager.AlterPartDefinition(typeof(FeaturedProductPart).Name, cfg => cfg.Attachable());
+            ContentDefinitionManager.AlterPartDefinition(typeof(FeaturedProductPart).Name, cfg => cfg.Attachable().WithField("Picture", f => f
+            .OfType("MediaLibraryPickerField")
+            .WithDisplayName("Type picture")));
 
             return 1;
         }
