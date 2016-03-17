@@ -12,6 +12,10 @@
     background-image:url('/OrchardLocal/Media/Default/Site/bg-navigation.png')
 }
 
+#layout-main {
+    max-width: 71%;
+}
+
 #footer-sig {
     margin: 0 auto;
     width: 800px;
