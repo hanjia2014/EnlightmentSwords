@@ -148,6 +148,8 @@
     <Content Include="Media\Default\Dao\dao_zhong_yi_4a.jpg" />
     <Content Include="Media\Default\Jian\2h_dragon fast_jian_2.jpg" />
     <Content Include="Media\Default\Jian\2h_dragon_fast_jian.jpg" />
+    <Content Include="Media\Default\Site\bg-navigation.png" />
+    <Content Include="Media\Default\Site\bottomlogo.gif" />
     <Content Include="Media\Default\Site\header.jpg" />
     <Content Include="Media\OrchardLogo.png" />
     <Content Include="Refresh.html" />
