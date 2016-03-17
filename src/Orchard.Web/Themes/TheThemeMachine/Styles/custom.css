@@ -1,6 +1,9 @@
 ﻿body {
     background-color:black;
 }
+p {
+    font-size: 16px;
+}
 
 #layout-navigation {
     margin-top: 30px;
@@ -9,11 +12,17 @@
     border: none;
     min-width: 150px;
     height: 650px;
-    background-image:url('/OrchardLocal/Media/Default/Site/bg-navigation.png')
+    background-image: url('/OrchardLocal/Media/Default/Site/bg-navigation.png');
 }
 
-#layout-main {
+/*#layout-main {
     max-width: 71%;
+}*/
+
+@media screen and (max-width: 1200px) {
+    #layout-main {
+        max-width: 60%;
+    }
 }
 
 #footer-sig {
@@ -21,6 +30,7 @@
     width: 800px;
     text-align: center;
     color: #FFFFFF;
+    margin-bottom: 10px;
 }
 
 #footer-company{

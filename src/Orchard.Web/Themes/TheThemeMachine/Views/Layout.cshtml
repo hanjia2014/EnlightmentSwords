@@ -74,8 +74,8 @@
 @if (Model.Navigation != null)
 {
     @*<div id="layout-navigation" class="group">
-        @Zone(Model.Navigation)
-    </div>*@
+            @Zone(Model.Navigation)
+        </div>*@
     <div id="layout-navigation" class="group">
         @*<img src="/OrchardLocal/Media/Default/Site/bg-navigation.png" />*@
     </div>
@@ -146,26 +146,26 @@
     <div id="layout-tripel-container">
         <div id="layout-tripel" class="group">
             @* as in beer *@
-        @if (Model.TripelFirst != null)
-        {
-            <div id="tripel-first">
-                @Zone(Model.TripelFirst)
-            </div>
-        }
-        @if (Model.TripelSecond != null)
-        {
-            <div id="tripel-second">
-                @Zone(Model.TripelSecond)
-            </div>
-        }
-        @if (Model.TripelThird != null)
-        {
-            <div id="tripel-third">
-                @Zone(Model.TripelThird)
-            </div>
-        }
+            @if (Model.TripelFirst != null)
+            {
+                <div id="tripel-first">
+                    @Zone(Model.TripelFirst)
+                </div>
+            }
+            @if (Model.TripelSecond != null)
+            {
+                <div id="tripel-second">
+                    @Zone(Model.TripelSecond)
+                </div>
+            }
+            @if (Model.TripelThird != null)
+            {
+                <div id="tripel-third">
+                    @Zone(Model.TripelThird)
+                </div>
+            }
+        </div>
     </div>
-</div>
 }
 <div id="layout-footer" class="group">
     <footer id="footer">
@@ -199,11 +199,14 @@
         {
             <div id="footer-sig" class="group">
                 @*@Zone(Model.Footer)*@
-                <img src="/OrchardLocal/Media/Default/Site/bottomlogo.gif" /><br />
+                <p>
+                    <a href="/"><img src="/OrchardLocal/Media/Default/Site/bottomlogo.gif" /></a>
+                </p>
                 <span id="footer-company">Powered By Enlightenment Co. Ltd.</span><br />
                 <span>Enlightenment Swords and all associated pages and images © 2008 Enlightenment Co Ltd. All Rights Reserved</span>
                 <br />
                 <span id="footer-law">By clicking any link on any page associated with Enlightenment Swords or Enlightement Co Ltd. you agree that you are at least 18 years of age and not violating any local or international laws that may apply. You also agree that Enlightenment Co Ltd. is not in any way responsible for misuse of its products.</span>
+
             </div>
         }
     </footer>
