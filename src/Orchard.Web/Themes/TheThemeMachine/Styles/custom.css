@@ -231,7 +231,7 @@ dl, dt, dd, ul, li {
 
 nav {
     position: absolute;
-    top: 15.6em;
+    top: 16em;
     left: 44px;
     width: 88px;
 }
@@ -270,22 +270,52 @@ nav {
         line-height: 18px;
     }
 
-        nav li a {
-            color: #FFFFFF;
-            text-decoration: none;
-            display: block;
+        nav li ul {
+            position: absolute;
+            left: -500px;
+            top: 0;
+            z-index: 1;
         }
 
-            #menu li a:hover {
-                text-decoration: underline;
-            }
+    nav ul > li:hover ul {
+        left: 50px;
+        display: block;
+        background-color: #990000;
+        color: white;
+    }
 
-    nav dt a {
-        color: #000000;
+    nav ul > li:hover ul li a:link{
+        color: white;
+    }
+
+    nav li a {
+        color: black;
         text-decoration: none;
         display: block;
     }
 
-        nav dt a:hover {
+    nav li a:link {
+        color: black;
+    }
+
+        nav li a:visited {
+            color: black;
+            text-decoration: none;
+            display: block;
+        }
+
+        nav li a:hover {
+            color: white;
+            text-decoration: underline;
             background-color: #990000;
         }
+
+    nav a {
+        color: black;
+        text-decoration: none;
+        display: block;
+    }
+
+    nav dt a:hover {
+        background-color: #990000;
+    }

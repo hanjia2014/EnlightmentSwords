@@ -1,4 +1,5 @@
-﻿@functions {
+﻿@*<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>*@
+@functions {
     // To support the layout classifaction below. Implementing as a razor function because we can, could otherwise be a Func<string[], string, string> in the code block following.
     string CalcuClassify(string[] zoneNames, string classNamePrefix)
     {
@@ -15,11 +16,12 @@
     Style.Include("//fonts.googleapis.com/css?family=Lobster&subset=latin");
     Style.Include("site.css");
     Style.Include("custom.css");
-
+    //Script.Include("jquery-1.10.2.js");
+    //Script.Include("angular.js");
     /* Some useful shortcuts or settings
     ***************************************************************/
 
-    Func<dynamic, dynamic> Zone = x => Display(x); // Zone as an alias for Display to help make it obvious when we're displaying zones
+    Func <dynamic, dynamic> Zone = x => Display(x); // Zone as an alias for Display to help make it obvious when we're displaying zones
 
     /* Layout classification based on filled zones
     ***************************************************************/
