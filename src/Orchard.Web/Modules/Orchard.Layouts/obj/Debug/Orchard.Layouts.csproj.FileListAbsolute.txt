@@ -1,4 +1,3 @@
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\obj\Debug\Orchard.Layouts.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\Orchard.Layouts.dll.config
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\Orchard.Layouts.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\Orchard.Layouts.pdb
@@ -59,5 +58,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\System
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\Microsoft.Web.Infrastructure.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\obj\Debug\Orchard.Layouts.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\obj\Debug\Orchard.Layouts.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Layouts\obj\Debug\Orchard.Layouts.pdb

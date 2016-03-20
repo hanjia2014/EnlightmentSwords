@@ -1,7 +1,4 @@
-C:\Projects\EnlightmentSwords\src\Orchard.Web\obj\Debug\Orchard.Web.csprojResolveAssemblyReference.cache
-C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Web.dll.config
-C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Web.dll
-C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Web.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.exe
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Autofac.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Microsoft.Web.Infrastructure.dll
@@ -9,7 +6,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\MySql.Data.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Newtonsoft.Json.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\NuGet.Core.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Core.dll
-C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.exe
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Framework.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.WarmupStarter.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\System.Data.SqlServerCe.dll
@@ -54,5 +50,9 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Autofac.Configuration.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\System.Web.Http.WebHost.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\obj\Debug\Orchard.Web.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\obj\Debug\Orchard.Web.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\obj\Debug\Orchard.Web.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Web.dll.config
+C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Web.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Web\bin\Orchard.Web.pdb

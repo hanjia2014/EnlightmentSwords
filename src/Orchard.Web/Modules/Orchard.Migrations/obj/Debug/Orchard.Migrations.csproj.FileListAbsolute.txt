@@ -42,5 +42,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\bin\Mic
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\obj\Debug\Orchard.Migrations.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\obj\Debug\Orchard.Migrations.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Migrations\obj\Debug\Orchard.Migrations.pdb

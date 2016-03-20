@@ -25,6 +25,12 @@
     <References />
   </Dependency>
   <Dependency>
+    <ModuleName>EnlightmentSwords.ContactOffice</ModuleName>
+    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>EnlightmentSwords.FeaturedProduct</ModuleName>
     <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>

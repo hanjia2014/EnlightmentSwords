@@ -1,4 +1,3 @@
-C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\obj\Debug\Orchard.Tests.Modules.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\Orchard.Tests.Modules.dll.config
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\Orchard.Tests.Modules.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\Orchard.Tests.Modules.pdb
@@ -121,5 +120,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\System.Web.Htt
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\Microsoft.Web.Infrastructure.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\obj\Debug\Orchard.Tests.Modules.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\obj\Debug\Orchard.Tests.Modules.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Tests.Modules\obj\Debug\Orchard.Tests.Modules.pdb

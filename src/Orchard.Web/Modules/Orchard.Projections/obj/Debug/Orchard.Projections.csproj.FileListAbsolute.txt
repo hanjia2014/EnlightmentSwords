@@ -1,4 +1,3 @@
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\obj\Debug\Orchard.Projections.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\Orchard.Projections.dll.config
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\Orchard.Projections.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\Orchard.Projections.pdb
