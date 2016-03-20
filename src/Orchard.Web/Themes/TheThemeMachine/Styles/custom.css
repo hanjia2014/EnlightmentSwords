@@ -287,6 +287,9 @@ nav {
     nav ul > li:hover ul li a:link{
         color: white;
     }
+    nav ul > li:hover ul li a:visited{
+        color: white;
+    }
 
     nav li a {
         color: black;
