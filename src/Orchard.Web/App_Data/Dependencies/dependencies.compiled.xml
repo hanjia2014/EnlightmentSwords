@@ -4,13 +4,25 @@
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
-    <Hash>4939896d3547c576</Hash>
+    <Hash>4939899e0571c448</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.FeaturedProduct</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
     <Hash>49415174d8f41f5d</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>EnlightmentSwords.Public</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.Public/bin/EnlightmentSwords.Public.dll</VirtualPath>
+    <Hash>4922c1873a95b43b</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>HelloWorlds</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/HelloWorlds/bin/HelloWorlds.dll</VirtualPath>
+    <Hash>48f8c9e60b762535</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>

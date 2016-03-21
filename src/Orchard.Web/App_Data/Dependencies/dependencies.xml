@@ -37,9 +37,21 @@
     <References />
   </Dependency>
   <Dependency>
+    <ModuleName>EnlightmentSwords.Public</ModuleName>
+    <VirtualPath>~/Modules/EnlightmentSwords.Public/bin/EnlightmentSwords.Public.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>Feeds</ModuleName>
     <VirtualPath>~/Core/Feeds</VirtualPath>
     <LoaderName>CoreExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
+    <ModuleName>HelloWorlds</ModuleName>
+    <VirtualPath>~/Modules/HelloWorlds/bin/HelloWorlds.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>

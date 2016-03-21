@@ -1,11 +1,11 @@
-﻿Name: EnlightmentSwords.FeaturedProduct
+﻿Name: Featured Product
 AntiForgery: enabled
-Author: The Orchard Team
+Author: Han Jia
 Website: http://orchardproject.net
 Version: 1.0
 OrchardVersion: 1.0
-Category: Enlight Swords Ltd
+Category: Enlightment Swords Ltd
 Description: Description for Enlightment Swords module
 Features:
     EnlightmentSwords.FeaturedProduct:
-        Description: EnlightmentSwords.FeaturedProduct details.
+        Description: FeaturedProduct details.
