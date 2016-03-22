@@ -99,6 +99,12 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Web.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EnlightmentSwords.ContactOffice\EnlightmentSwords.ContactOffice.csproj">
+      <Project>{afe5fcbe-9209-4310-954f-203c9efcc6b9}</Project>
+      <Name>EnlightmentSwords.ContactOffice</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -46,6 +46,5 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\Mi
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\bin\Iesi.Collections.xml
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\obj\Debug\Orchard.Projections.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\obj\Debug\Orchard.Projections.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Projections\obj\Debug\Orchard.Projections.pdb

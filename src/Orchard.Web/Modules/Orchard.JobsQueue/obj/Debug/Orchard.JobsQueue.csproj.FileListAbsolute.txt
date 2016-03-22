@@ -50,6 +50,5 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Micr
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Iesi.Collections.xml
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.pdb

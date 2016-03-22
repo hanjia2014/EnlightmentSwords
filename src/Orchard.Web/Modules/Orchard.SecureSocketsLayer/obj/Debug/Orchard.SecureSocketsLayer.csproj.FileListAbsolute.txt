@@ -42,5 +42,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.pdb

@@ -42,5 +42,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\bin
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\obj\Debug\Orchard.CodeGeneration.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\obj\Debug\Orchard.CodeGeneration.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.CodeGeneration\obj\Debug\Orchard.CodeGeneration.pdb

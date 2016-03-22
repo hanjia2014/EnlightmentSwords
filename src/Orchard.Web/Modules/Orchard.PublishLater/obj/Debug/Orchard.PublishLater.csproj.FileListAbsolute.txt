@@ -42,5 +42,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\bin\M
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\obj\Debug\Orchard.PublishLater.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\obj\Debug\Orchard.PublishLater.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.PublishLater\obj\Debug\Orchard.PublishLater.pdb
