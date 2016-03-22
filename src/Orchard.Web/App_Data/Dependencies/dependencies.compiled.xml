@@ -2,9 +2,9 @@
 <Dependencies>
   <Dependency>
     <ExtensionId>Business</ExtensionId>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/Business/bin/Business.dll</VirtualPath>
-    <Hash>927c7ccf4f2a462d</Hash>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Business/Business.csproj</VirtualPath>
+    <Hash>b39003ac446c4ea0</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>

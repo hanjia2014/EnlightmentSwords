@@ -8,8 +8,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>Business</ModuleName>
-    <VirtualPath>~/Modules/Business/bin/Business.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Business/Business.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>EnlightmentSwords.ContactOffice</Name>
