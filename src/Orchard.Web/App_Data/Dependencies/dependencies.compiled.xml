@@ -4,7 +4,7 @@
     <ExtensionId>Business</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/Business/Business.csproj</VirtualPath>
-    <Hash>b39003ac446c4ea0</Hash>
+    <Hash>b39003bbdcd860e9</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>
