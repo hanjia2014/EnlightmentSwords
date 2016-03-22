@@ -42,5 +42,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\bin\Microso
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\obj\Debug\Orchard.Fields.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\obj\Debug\Orchard.Fields.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Fields\obj\Debug\Orchard.Fields.pdb

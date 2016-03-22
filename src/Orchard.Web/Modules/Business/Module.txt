@@ -1,0 +1,11 @@
+﻿Name: Business
+AntiForgery: enabled
+Author: Han Jia
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Category: Enlightment Swords Ltd
+Description: Description for Enlightment Swords module
+Features:
+    EnlightmentSwords.Business:
+        Description: Business details.
