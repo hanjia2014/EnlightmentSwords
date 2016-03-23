@@ -2,21 +2,21 @@
 <Dependencies>
   <Dependency>
     <ExtensionId>Business</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/Business/Business.csproj</VirtualPath>
-    <Hash>b3828bfa247b14f0</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Business/bin/Business.dll</VirtualPath>
+    <Hash>927c7f78c5013ed0</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/EnlightmentSwords.ContactOffice.csproj</VirtualPath>
-    <Hash>4700477ef3977af9</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
+    <Hash>49398bb7a1749dee</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.FeaturedProduct</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj</VirtualPath>
-    <Hash>fbfc4f1c13cafed1</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
+    <Hash>494153bf6e09635c</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>

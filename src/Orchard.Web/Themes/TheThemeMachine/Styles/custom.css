@@ -27,18 +27,19 @@ p {
 }
 
 table, th, td {
-   border: 1px solid black;
+    border: 1px solid black;
 }
 
-.bottom-logo:hover img{
-    border:1px solid red;
+.bottom-logo:hover img {
+    border: 1px solid red;
 }
 
-.property-name{
-   background-color:#4A365B;
+.property-name {
+    background-color: #4A365B;
 }
-.property-value{
-   background-color:#333333;
+
+.property-value {
+    background-color: #333333;
 }
 
 #footer-sig {
@@ -69,17 +70,17 @@ header h1 {
 }
 
 a {
-    color: #CC9900;
+    color: #59a0f6;
     text-decoration: none;
 }
 
     a:link {
-        color: #CC9900;
+        color: #59a0f6;
         text-decoration: none;
     }
 
     a:visited {
-        color: #59a0f6;
+        color: #CC9900;
         text-decoration: none;
     }
 
@@ -299,12 +300,13 @@ nav {
         color: white;
     }
 
-    nav ul > li:hover ul li a:link{
-        color: white;
-    }
-    nav ul > li:hover ul li a:visited{
-        color: white;
-    }
+        nav ul > li:hover ul li a:link {
+            color: white;
+        }
+
+        nav ul > li:hover ul li a:visited {
+            color: white;
+        }
 
     nav li a {
         color: black;
@@ -312,9 +314,9 @@ nav {
         display: block;
     }
 
-    nav li a:link {
-        color: black;
-    }
+        nav li a:link {
+            color: black;
+        }
 
         nav li a:visited {
             color: black;
@@ -337,3 +339,12 @@ nav {
     nav dt a:hover {
         background-color: #990000;
     }
+/*========================Contact=========================*/
+.contact-list {
+    margin-top: 50px;
+}
+
+.contact-office {
+    margin: auto;
+    width: 50%;
+}
