@@ -44,5 +44,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\Micro
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Debug\Orchard.AntiSpam.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Debug\Orchard.AntiSpam.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.AntiSpam\obj\Debug\Orchard.AntiSpam.pdb

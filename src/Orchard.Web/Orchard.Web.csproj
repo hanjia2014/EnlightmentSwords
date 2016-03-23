@@ -181,6 +181,7 @@
   <ItemGroup>
     <Content Include="Config\Sites.config" />
     <Content Include="Media\web.config" />
+    <None Include="Properties\PublishProfiles\azure release.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

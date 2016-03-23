@@ -2,8 +2,8 @@
 <Dependencies>
   <Dependency>
     <ModuleName>EnlightmentSwords.ContactOffice</ModuleName>
-    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/EnlightmentSwords.ContactOffice.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>
@@ -13,8 +13,8 @@
     <References>
       <Reference>
         <Name>EnlightmentSwords.ContactOffice</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
+        <LoaderName>DynamicExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/EnlightmentSwords.ContactOffice.csproj</VirtualPath>
       </Reference>
     </References>
   </Dependency>
@@ -44,8 +44,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>EnlightmentSwords.FeaturedProduct</ModuleName>
-    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>

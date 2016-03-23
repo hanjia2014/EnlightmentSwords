@@ -42,5 +42,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Micr
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Iesi.Collections.xml
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.pdb

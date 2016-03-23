@@ -13,7 +13,7 @@ p {
     border: none;
     min-width: 150px;
     height: 650px;
-    background-image: url('/OrchardLocal/Media/Default/Site/bg-navigation.png');
+    background-image: url('/Media/Default/Site/bg-navigation.png');
 }
 
 /*#layout-main {
@@ -24,6 +24,17 @@ p {
     #layout-main {
         max-width: 60%;
     }
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.property-name{
+   background-color:#4A365B;
+}
+.property-value{
+   background-color:#333333;
 }
 
 #footer-sig {

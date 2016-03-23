@@ -1,3 +1,4 @@
+C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\NHibernate.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Orchard.Framework.dll.config
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Orchard.Framework.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Orchard.Framework.pdb
@@ -9,7 +10,6 @@ C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Iesi.Collections.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\log4net.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Microsoft.Owin.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\NHibernate.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\NHibernate.Linq.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Owin.dll
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\System.Net.Http.dll
@@ -39,6 +39,5 @@ C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\System.Web.WebPages.Razor.xm
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\Microsoft.Web.Infrastructure.xml
 C:\Projects\EnlightmentSwords\src\Orchard\bin\Debug\System.Web.WebPages.Deployment.xml
-C:\Projects\EnlightmentSwords\src\Orchard\obj\Debug\Orchard.Framework.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard\obj\Debug\Orchard.Framework.dll
 C:\Projects\EnlightmentSwords\src\Orchard\obj\Debug\Orchard.Framework.pdb

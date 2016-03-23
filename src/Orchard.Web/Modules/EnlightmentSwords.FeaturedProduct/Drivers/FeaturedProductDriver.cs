@@ -16,7 +16,9 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
                 HandGuard: part.HandGuard,
                 ImageUrl: part.ImageUrl,
                 Price: part.Price,
-                TotalLength: part.TotalLength
+                TotalLength: part.TotalLength,
+                Weight: part.Weight,
+                Wood: part.Wood
                 ));
         }
 
