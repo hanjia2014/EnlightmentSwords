@@ -40,6 +40,5 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\bin\Microsoft.Web.Infrastru
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\bin\Iesi.Collections.xml
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\obj\Debug\Themes.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\obj\Debug\Themes.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Themes\obj\Debug\Themes.pdb

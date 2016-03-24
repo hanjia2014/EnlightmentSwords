@@ -40,6 +40,5 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\bin\Micros
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\bin\System.Net.Http.Formatting.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\bin\Iesi.Collections.xml
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.pdb
