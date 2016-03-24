@@ -55,18 +55,6 @@
     <References />
   </Dependency>
   <Dependency>
-    <ModuleName>Lucene</ModuleName>
-    <VirtualPath>~/Modules/Lucene/bin/Lucene.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <References>
-      <Reference>
-        <Name>Lucene.Net</Name>
-        <LoaderName>PrecompiledExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/Lucene/bin/Lucene.Net.dll</VirtualPath>
-      </Reference>
-    </References>
-  </Dependency>
-  <Dependency>
     <ModuleName>Orchard.Tokens</ModuleName>
     <VirtualPath>~/Modules/Orchard.Tokens/bin/Orchard.Tokens.dll</VirtualPath>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
@@ -81,6 +69,40 @@
         <Name>Orchard.Tokens</Name>
         <LoaderName>PrecompiledExtensionLoader</LoaderName>
         <VirtualPath>~/Modules/Orchard.Tokens/bin/Orchard.Tokens.dll</VirtualPath>
+      </Reference>
+    </References>
+  </Dependency>
+  <Dependency>
+    <ModuleName>ImageGallery</ModuleName>
+    <VirtualPath>~/Modules/ImageGallery/bin/ImageGallery.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <References>
+      <Reference>
+        <Name>ICSharpCode.SharpZipLib</Name>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/ImageGallery/bin/ICSharpCode.SharpZipLib.dll</VirtualPath>
+      </Reference>
+      <Reference>
+        <Name>Orchard.MediaLibrary</Name>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.MediaLibrary/bin/Orchard.MediaLibrary.dll</VirtualPath>
+      </Reference>
+      <Reference>
+        <Name>Orchard.Tokens</Name>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Orchard.Tokens/bin/Orchard.Tokens.dll</VirtualPath>
+      </Reference>
+    </References>
+  </Dependency>
+  <Dependency>
+    <ModuleName>Lucene</ModuleName>
+    <VirtualPath>~/Modules/Lucene/bin/Lucene.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <References>
+      <Reference>
+        <Name>Lucene.Net</Name>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/Lucene/bin/Lucene.Net.dll</VirtualPath>
       </Reference>
     </References>
   </Dependency>
