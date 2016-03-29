@@ -284,6 +284,7 @@ nav {
         font-size: 85%;
         height: 18px;
         line-height: 18px;
+        
     }
 
         nav li ul {
@@ -298,6 +299,7 @@ nav {
         display: block;
         background-color: #990000;
         color: white;
+        width: 100px;
     }
 
         nav ul > li:hover ul li a:link {
@@ -312,6 +314,8 @@ nav {
         color: black;
         text-decoration: none;
         display: block;
+        margin-top:10px;
+        margin-bottom:10px;
     }
 
         nav li a:link {
