@@ -322,11 +322,30 @@ nav {
         width: auto;
         cursor: pointer;
     }
+    nav ul > li:hover a {
+            color: white;
+        }
+    nav ul > li:hover ul li a:link {
+            color: white;
+        }
 
+        nav ul > li:hover ul li a:visited {
+            color: white;
+        }
+    nav li a:link {
+            color: black;
+        }
+    nav li a:visited {
+            color: black;
+        }
+    nav li a:hover {
+            color: white;
+        }
         /* We apply the background hover color when user hover the mouse over of the li component */
         nav ul li:hover {
             background-color: #990000;
             position: relative;
+            color: white;
         }
 
         /* We apply the link style */
@@ -375,6 +394,7 @@ nav {
         nav ul li:hover ul li ul {
             position: absolute;
             display: none;
+            color:white;
         }
 
         /* We show the third level menu only when they hover the second level menu parent */
