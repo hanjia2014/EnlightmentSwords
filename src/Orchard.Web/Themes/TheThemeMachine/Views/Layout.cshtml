@@ -72,7 +72,7 @@
         </div>
     </header>
 }
-<div style="border-bottom: 5px solid #FFFFFF;"></div>
+@*<div style="border-bottom: 5px solid #FFFFFF;"></div>*@
 @if (Model.Navigation != null)
 {
     @*<div id="layout-navigation" class="group">
@@ -200,15 +200,7 @@
         @if (Model.Footer != null)
         {
             <div id="footer-sig" class="group">
-                @*@Zone(Model.Footer)*@
-                <p>
-                    <a class="bottom-logo" href="/"><img src="/Media/Default/Site/bottomlogo.gif" /></a>
-                </p>
-                <span id="footer-company">Powered By Enlightenment Co. Ltd.</span><br />
-                <span>Enlightenment Swords and all associated pages and images © 2008 Enlightenment Co Ltd. All Rights Reserved</span>
-                <br />
-                <span id="footer-law">By clicking any link on any page associated with Enlightenment Swords or Enlightement Co Ltd. you agree that you are at least 18 years of age and not violating any local or international laws that may apply. You also agree that Enlightenment Co Ltd. is not in any way responsible for misuse of its products.</span>
-
+                @Zone(Model.Footer)
             </div>
         }
     </footer>
