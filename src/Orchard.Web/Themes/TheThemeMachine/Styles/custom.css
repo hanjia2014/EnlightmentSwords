@@ -218,7 +218,8 @@ a {
 }
 
 /*===============Menu Scrip====================*/
-
+nav ul li a:link, a:visited{
+    color:black;
 }
 /*========================Contact=========================*/
 .contact-list {
