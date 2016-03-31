@@ -16,10 +16,12 @@ table, th, td {
 
 .property-name {
     background-color: #4A365B;
+    font-size: medium;
 }
 
 .property-value {
     background-color: #333333;
+    font-size: medium;
 }
 
 #footer-sig {
@@ -218,7 +220,8 @@ a {
 }
 
 /*===============Menu Scrip====================*/
-
+nav ul li a:link, nav ul li a:visited{
+    color:black;
 }
 /*========================Contact=========================*/
 .contact-list {
