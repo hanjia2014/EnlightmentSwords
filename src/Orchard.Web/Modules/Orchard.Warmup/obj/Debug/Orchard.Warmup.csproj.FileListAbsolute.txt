@@ -44,3 +44,4 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Warmup\bin\System.
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Warmup\bin\Iesi.Collections.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Warmup\obj\Debug\Orchard.Warmup.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Warmup\obj\Debug\Orchard.Warmup.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Warmup\obj\Debug\Orchard.Warmup.csprojResolveAssemblyReference.cache

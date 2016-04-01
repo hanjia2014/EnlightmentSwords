@@ -197,8 +197,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnlightmentSwords.ContactOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Orchard.Web\Modules\Business\Business.csproj", "{B2947FAF-13EC-4141-9EF4-301E560962D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery", "Orchard.Web\Modules\ImageGallery\ImageGallery.csproj", "{B6E59CC5-0745-4B8F-BED5-0F2283A919EF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -545,10 +543,6 @@ Global
 		{B2947FAF-13EC-4141-9EF4-301E560962D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2947FAF-13EC-4141-9EF4-301E560962D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2947FAF-13EC-4141-9EF4-301E560962D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6E59CC5-0745-4B8F-BED5-0F2283A919EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6E59CC5-0745-4B8F-BED5-0F2283A919EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6E59CC5-0745-4B8F-BED5-0F2283A919EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6E59CC5-0745-4B8F-BED5-0F2283A919EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -636,6 +630,5 @@ Global
 		{6248C696-4716-4D70-A8C9-F3B2316D696F} = {B13B626F-BE9B-40C1-AE3C-428C89206A96}
 		{AFE5FCBE-9209-4310-954F-203C9EFCC6B9} = {B13B626F-BE9B-40C1-AE3C-428C89206A96}
 		{B2947FAF-13EC-4141-9EF4-301E560962D1} = {B13B626F-BE9B-40C1-AE3C-428C89206A96}
-		{B6E59CC5-0745-4B8F-BED5-0F2283A919EF} = {B13B626F-BE9B-40C1-AE3C-428C89206A96}
 	EndGlobalSection
 EndGlobal
