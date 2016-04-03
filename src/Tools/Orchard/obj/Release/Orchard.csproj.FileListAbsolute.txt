@@ -1,0 +1,10 @@
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\bin\Release\Orchard.exe.config
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\bin\Release\Orchard.exe.manifest
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\bin\Release\Orchard.application
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\bin\Release\Orchard.exe
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\bin\Release\Orchard.pdb
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\obj\Release\Orchard.csprojResolveAssemblyReference.cache
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\obj\Release\Orchard.exe.manifest
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\obj\Release\Orchard.application
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\obj\Release\Orchard.exe
+C:\Projects\EnlightmentSwords\src\Tools\Orchard\obj\Release\Orchard.pdb

@@ -1,0 +1,5 @@
+C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\bin\Release\Orchard.WarmupStarter.dll
+C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\bin\Release\Orchard.WarmupStarter.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
+C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.dll
+C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\obj\Release\Orchard.WarmupStarter.pdb

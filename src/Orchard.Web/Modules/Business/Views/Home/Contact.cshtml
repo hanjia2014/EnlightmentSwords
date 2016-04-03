@@ -1,0 +1,19 @@
+﻿@model IEnumerable<EnlightmentSwords.ContactOffice.Models.ContactOfficePart>
+<div id="content" class="group">
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+    <p>Please feel free to contact us at either of the following email addresses for Carbon steel wholesale prices, custom made price quotes and delivery dates, and ordering information.</p>
+    <p>If you wish to receive updated infomation regarding stock quantity, sales, and new items please send Evan or Frank an email.</p>
+    <p>Even if you just have some not so simple questions regarding construction, hardness, or wish to comission a piece of work unique to yourself feel free to email us. We make every effort to answer all enquiries within 24 hours.</p>
+    <div class="contact-office">
+        @foreach (var office in Model)
+        {
+            <ul class="contact-list">
+                <li>@office.Name</li>
+                <li>@office.Telephone</li>
+                <li><a href="mailto:@office.Email" target="_top">@office.Email</a></li>
+            </ul>
+        }
+    </div>
+</div>
