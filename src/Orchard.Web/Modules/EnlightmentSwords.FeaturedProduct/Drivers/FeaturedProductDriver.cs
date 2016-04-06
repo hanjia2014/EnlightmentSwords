@@ -8,7 +8,9 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
     {
         protected override DriverResult Display(FeaturedProductPart part, string displayType, dynamic shapeHelper)
         {
-            //get the value from field
+            //get the value from field, pass it to the contentshape below (same as other properties such as "Weight", "Wood" etc..., 
+            //then it can be used in View, also need to comment in the display from Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.cshtml
+
             //var img = (MediaLibraryPickerField)part.Fields.FirstOrDefault(p => p.Name == "Picture");
 
             return ContentShape("Parts_FeaturedProduct", () => shapeHelper.Parts_FeaturedProduct(
