@@ -1,0 +1,80 @@
+2016-04-06 14:59:04,546 [18] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:04,646 [18] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:27,737 [17] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:27,745 [17] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:30,183 [26] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:37,827 [26] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:51,079 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:51,088 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:57,625 [20] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 14:59:57,634 [20] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:33,071 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:33,080 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:35,344 [20] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:35,353 [20] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:39,100 [20] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:53,516 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/forging20picture.jpg storagePath:General\forging20picture.jpg
+System.ArgumentException: File General\forging20picture.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:53,528 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:00:55,132 [20] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:02:20,544 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-06 15:02:21,379 [28] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/image001.jpg storagePath:General\image001.jpg
+System.ArgumentException: File General\image001.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)

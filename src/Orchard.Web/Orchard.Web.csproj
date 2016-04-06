@@ -146,6 +146,8 @@
     <Content Include="Media\Default\Dao\dao_zhong_yi_3b.jpg" />
     <Content Include="Media\Default\Dao\dao_zhong_yi_4.jpg" />
     <Content Include="Media\Default\Dao\dao_zhong_yi_4a.jpg" />
+    <Content Include="Media\Default\General\forging20picture.jpg" />
+    <Content Include="Media\Default\General\image001.jpg" />
     <Content Include="Media\Default\Jian\2h_dragon fast_jian_2.jpg" />
     <Content Include="Media\Default\Jian\2h_dragon_fast_jian.jpg" />
     <Content Include="Media\Default\Site\bg-navigation.png" />
