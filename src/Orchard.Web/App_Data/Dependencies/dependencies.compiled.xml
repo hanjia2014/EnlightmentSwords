@@ -16,7 +16,7 @@
     <ExtensionId>EnlightmentSwords.FeaturedProduct</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj</VirtualPath>
-    <Hash>45642cfbb52bed6d</Hash>
+    <Hash>6eec842ed95e7b2c</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>

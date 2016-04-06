@@ -1,6 +1,8 @@
 ﻿using EnlightmentSwords.FeaturedProduct.Models;
 using Orchard.ContentManagement;
 using Orchard.ContentManagement.Drivers;
+using Orchard.MediaLibrary.Fields;
+using System.Linq;
 
 namespace EnlightmentSwords.FeaturedProduct.Drivers
 {
@@ -11,7 +13,7 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
             //get the value from field, pass it to the contentshape below (same as other properties such as "Weight", "Wood" etc..., 
             //then it can be used in View, also need to comment in the display from Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.cshtml
 
-            //var img = (MediaLibraryPickerField)part.Fields.FirstOrDefault(p => p.Name == "Picture");
+            var img = (MediaLibraryPickerField)part.Fields.FirstOrDefault(p => p.Name == "Picture");
 
             return ContentShape("Parts_FeaturedProduct", () => shapeHelper.Parts_FeaturedProduct(
                 Name: part.Name,
@@ -23,7 +25,8 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
                 Price: part.Price,
                 TotalLength: part.TotalLength,
                 Weight: part.Weight,
-                Wood: part.Wood
+                Wood: part.Wood,
+                Image: img
                 ));
         }
 
