@@ -1,0 +1,46 @@
+2016-04-07 10:34:38,048 [4] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/tang_construction.jpg storagePath:General\tang_construction.jpg
+System.ArgumentException: File General\tang_construction.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-07 10:34:38,091 [4] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/sharpening.jpg storagePath:General\sharpening.jpg
+System.ArgumentException: File General\sharpening.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-07 10:34:40,812 [6] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/tang_construction.jpg storagePath:General\tang_construction.jpg
+System.ArgumentException: File General\tang_construction.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-07 10:34:40,822 [6] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/sharpening.jpg storagePath:General\sharpening.jpg
+System.ArgumentException: File General\sharpening.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-07 10:34:44,439 [18] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/sharpening.jpg storagePath:General\sharpening.jpg
+System.ArgumentException: File General\sharpening.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-07 10:35:00,241 [15] Orchard.ContentManagement.DefaultContentManager - Default - ArgumentException thrown from IContentHandler by Orchard.MediaLibrary.Handlers.MediaPartHandler
+System.ArgumentException: File General\sharpening.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.DeleteFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 250
+   at Orchard.MediaLibrary.Services.MediaLibraryService.DeleteFile(String folderPath, String fileName)
+   at Orchard.MediaLibrary.Handlers.MediaPartHandler.RemoveMedia(MediaPart part)
+   at Orchard.MediaLibrary.Handlers.MediaPartHandler.<.ctor>b__1_0(RemoveContentContext context, MediaPart part)
+   at Orchard.ContentManagement.Handlers.ContentHandler.InlineStorageFilter`1.Removing(RemoveContentContext context, TPart instance) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\Handlers\ContentHandler.cs:line 212
+   at Orchard.ContentManagement.Handlers.StorageFilterBase`1.Orchard.ContentManagement.Handlers.IContentStorageFilter.Removing(RemoveContentContext context) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\Handlers\StorageFilterBase.cs:line 110
+   at Orchard.ContentManagement.Handlers.ContentHandler.Orchard.ContentManagement.Handlers.IContentHandler.Removing(RemoveContentContext context) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\Handlers\ContentHandler.cs:line 376
+   at Orchard.ContentManagement.DefaultContentManager.<>c__DisplayClass37_0.<Remove>b__0(IContentHandler handler) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\DefaultContentManager.cs:line 431
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\EnlightmentSwords\src\Orchard\InvokeExtensions.cs:line 17
+2016-04-07 10:35:01,620 [14] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/tang_construction.jpg storagePath:General\tang_construction.jpg
+System.ArgumentException: File General\tang_construction.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2016-04-07 10:35:11,465 [17] Orchard.ContentManagement.DefaultContentManager - Default - ArgumentException thrown from IContentHandler by Orchard.MediaLibrary.Handlers.MediaPartHandler
+System.ArgumentException: File General\tang_construction.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.DeleteFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 250
+   at Orchard.MediaLibrary.Services.MediaLibraryService.DeleteFile(String folderPath, String fileName)
+   at Orchard.MediaLibrary.Handlers.MediaPartHandler.RemoveMedia(MediaPart part)
+   at Orchard.MediaLibrary.Handlers.MediaPartHandler.<.ctor>b__1_0(RemoveContentContext context, MediaPart part)
+   at Orchard.ContentManagement.Handlers.ContentHandler.InlineStorageFilter`1.Removing(RemoveContentContext context, TPart instance) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\Handlers\ContentHandler.cs:line 212
+   at Orchard.ContentManagement.Handlers.StorageFilterBase`1.Orchard.ContentManagement.Handlers.IContentStorageFilter.Removing(RemoveContentContext context) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\Handlers\StorageFilterBase.cs:line 110
+   at Orchard.ContentManagement.Handlers.ContentHandler.Orchard.ContentManagement.Handlers.IContentHandler.Removing(RemoveContentContext context) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\Handlers\ContentHandler.cs:line 376
+   at Orchard.ContentManagement.DefaultContentManager.<>c__DisplayClass37_0.<Remove>b__0(IContentHandler handler) in C:\Projects\EnlightmentSwords\src\Orchard\ContentManagement\DefaultContentManager.cs:line 431
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Projects\EnlightmentSwords\src\Orchard\InvokeExtensions.cs:line 17
