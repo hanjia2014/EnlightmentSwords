@@ -14,9 +14,9 @@
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.FeaturedProduct</ExtensionId>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
-    <Hash>49415e33ade0f495</Hash>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj</VirtualPath>
+    <Hash>45642cfac34eedb2</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>
