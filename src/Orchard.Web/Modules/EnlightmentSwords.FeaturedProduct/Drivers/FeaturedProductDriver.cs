@@ -8,6 +8,9 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
     {
         protected override DriverResult Display(FeaturedProductPart part, string displayType, dynamic shapeHelper)
         {
+            //get the value from field
+            //var img = (MediaLibraryPickerField)part.Fields.FirstOrDefault(p => p.Name == "Picture");
+
             return ContentShape("Parts_FeaturedProduct", () => shapeHelper.Parts_FeaturedProduct(
                 Name: part.Name,
                 Code: part.Code,
