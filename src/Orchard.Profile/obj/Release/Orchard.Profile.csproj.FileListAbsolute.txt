@@ -1,0 +1,7 @@
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\bin\Release\Orchard.Profile.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\bin\Release\Orchard.Profile.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\bin\Release\nunit.framework.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\bin\Release\TechTalk.SpecFlow.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\obj\Release\Orchard.Profile.csprojResolveAssemblyReference.cache
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\obj\Release\Orchard.Profile.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\obj\Release\Orchard.Profile.pdb

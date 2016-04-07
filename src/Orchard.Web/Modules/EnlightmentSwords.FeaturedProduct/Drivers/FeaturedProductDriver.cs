@@ -14,6 +14,7 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
             //then it can be used in View, also need to comment in the display from Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.cshtml
 
             var img = (MediaLibraryPickerField)part.Fields.FirstOrDefault(p => p.Name == "Picture");
+            var imglink = img == null ? string.Empty : img.FirstMediaUrl;
 
             return ContentShape("Parts_FeaturedProduct", () => shapeHelper.Parts_FeaturedProduct(
                 Name: part.Name,
@@ -21,12 +22,12 @@ namespace EnlightmentSwords.FeaturedProduct.Drivers
                 BladeLength: part.BladeLength,
                 Construction: part.Construction,
                 HandGuard: part.HandGuard,
-                ImageUrl: part.ImageUrl,
                 Price: part.Price,
                 TotalLength: part.TotalLength,
                 Weight: part.Weight,
                 Wood: part.Wood,
-                Image: img
+                ImgLink: imglink,
+                ImageUrl: part.ImageUrl
                 ));
         }
 

@@ -6,11 +6,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Han\Releases</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\enlightmentswords</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="App_Data/Sites/Default/Orchard.sdf">
-      <publishTime>04/05/2016 15:43:33</publishTime>
+      <publishTime>04/08/2016 08:26:38</publishTime>
     </File>
     <File Include="App_Data/Sites/Default/reports.dat">
       <publishTime>03/15/2016 14:17:44</publishTime>
@@ -100,7 +100,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/23/2016 09:03:02</publishTime>
     </File>
     <File Include="bin/Orchard.Web.dll">
-      <publishTime>04/01/2016 12:21:58</publishTime>
+      <publishTime>04/07/2016 11:07:48</publishTime>
     </File>
     <File Include="bin/Orchard.Web.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -166,10 +166,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Config/HostComponents.config">
-      <publishTime>04/05/2016 15:45:05</publishTime>
+      <publishTime>04/08/2016 08:51:01</publishTime>
     </File>
     <File Include="Config/log4net.config">
-      <publishTime>04/05/2016 15:45:05</publishTime>
+      <publishTime>04/08/2016 08:51:01</publishTime>
     </File>
     <File Include="Config/Sites.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -636,6 +636,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Media/Default/Dao/29th_legion_dao_2.png">
       <publishTime>03/17/2016 08:51:41</publishTime>
     </File>
+    <File Include="Media/Default/Dao/dao_miao_dao_1b-1.jpg">
+      <publishTime>04/06/2016 15:17:21</publishTime>
+    </File>
+    <File Include="Media/Default/Dao/dao_miao_dao_1b.jpg">
+      <publishTime>04/06/2016 15:12:13</publishTime>
+    </File>
     <File Include="Media/Default/Dao/dao_zhong_yi_1.jpg">
       <publishTime>03/17/2016 08:56:39</publishTime>
     </File>
@@ -662,6 +668,21 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Media/Default/Dao/dao_zhong_yi_4a.jpg">
       <publishTime>03/17/2016 08:56:38</publishTime>
+    </File>
+    <File Include="Media/Default/Dao/Product List/dao_miao_dao_1b-2.jpg">
+      <publishTime>04/07/2016 10:41:28</publishTime>
+    </File>
+    <File Include="Media/Default/General/forging20picture.jpg">
+      <publishTime>04/06/2016 15:02:01</publishTime>
+    </File>
+    <File Include="Media/Default/General/image001.jpg">
+      <publishTime>04/06/2016 15:03:57</publishTime>
+    </File>
+    <File Include="Media/Default/General/sharpening.jpg">
+      <publishTime>04/07/2016 10:35:35</publishTime>
+    </File>
+    <File Include="Media/Default/General/tang_construction.jpg">
+      <publishTime>04/07/2016 10:35:51</publishTime>
     </File>
     <File Include="Media/Default/Jian/2h_dragon fast_jian_2.jpg">
       <publishTime>03/16/2016 14:44:43</publishTime>
@@ -744,6 +765,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Media/Default/_Profiles/1338a03e/96e669ab/29th_legion_dao_2.png">
       <publishTime>04/01/2016 12:10:57</publishTime>
     </File>
+    <File Include="Media/Default/_Profiles/1338a03e/96e669ab/dao_miao_dao_1b-1.jpg">
+      <publishTime>04/06/2016 15:17:21</publishTime>
+    </File>
+    <File Include="Media/Default/_Profiles/1338a03e/96e669ab/dao_miao_dao_1b-2.jpg">
+      <publishTime>04/07/2016 10:41:28</publishTime>
+    </File>
     <File Include="Media/Default/_Profiles/1338a03e/96e669ab/dao_zhong_yi_1.jpg">
       <publishTime>04/01/2016 12:10:57</publishTime>
     </File>
@@ -771,6 +798,18 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Media/Default/_Profiles/1338a03e/96e669ab/dao_zhong_yi_4a.jpg">
       <publishTime>04/01/2016 12:09:59</publishTime>
     </File>
+    <File Include="Media/Default/_Profiles/1338a03e/b8716c4b/forging20picture.jpg">
+      <publishTime>04/06/2016 15:02:20</publishTime>
+    </File>
+    <File Include="Media/Default/_Profiles/1338a03e/b8716c4b/image001.jpg">
+      <publishTime>04/06/2016 15:04:36</publishTime>
+    </File>
+    <File Include="Media/Default/_Profiles/1338a03e/b8716c4b/sharpening.jpg">
+      <publishTime>04/07/2016 10:35:36</publishTime>
+    </File>
+    <File Include="Media/Default/_Profiles/1338a03e/b8716c4b/tang_construction.jpg">
+      <publishTime>04/07/2016 10:35:52</publishTime>
+    </File>
     <File Include="Media/Default/_Profiles/1338a03e/dbab4c05/bg-navigation.png">
       <publishTime>04/01/2016 12:10:57</publishTime>
     </File>
@@ -779,6 +818,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Media/Default/_Profiles/1338a03e/dbab4c05/header.jpg">
       <publishTime>04/01/2016 12:10:57</publishTime>
+    </File>
+    <File Include="Media/Default/_Profiles/1338a03e/f4e23e7a/dao_miao_dao_1b-2.jpg">
+      <publishTime>04/07/2016 10:42:20</publishTime>
     </File>
     <File Include="Media/OrchardLogo.png">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -793,13 +835,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/22/2016 15:11:48</publishTime>
     </File>
     <File Include="Modules/Business/bin/Business.dll">
-      <publishTime>03/24/2016 14:44:46</publishTime>
+      <publishTime>04/08/2016 08:47:31</publishTime>
     </File>
     <File Include="Modules/Business/bin/Business.dll.config">
       <publishTime>03/24/2016 08:25:37</publishTime>
     </File>
     <File Include="Modules/Business/bin/EnlightmentSwords.ContactOffice.dll">
-      <publishTime>03/24/2016 14:44:44</publishTime>
+      <publishTime>04/08/2016 08:36:06</publishTime>
     </File>
     <File Include="Modules/Business/Module.txt">
       <publishTime>03/22/2016 15:22:01</publishTime>
@@ -838,7 +880,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/21/2016 09:03:44</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll">
-      <publishTime>03/24/2016 14:44:44</publishTime>
+      <publishTime>04/08/2016 08:36:06</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll.config">
       <publishTime>03/21/2016 13:19:01</publishTime>
@@ -883,10 +925,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/15/2016 14:37:09</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll">
-      <publishTime>03/24/2016 14:44:46</publishTime>
+      <publishTime>04/08/2016 08:37:08</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll.config">
       <publishTime>03/15/2016 15:25:23</publishTime>
+    </File>
+    <File Include="Modules/EnlightmentSwords.FeaturedProduct/bin/Orchard.MediaLibrary.dll">
+      <publishTime>04/08/2016 08:36:14</publishTime>
+    </File>
+    <File Include="Modules/EnlightmentSwords.FeaturedProduct/bin/Orchard.Tokens.dll">
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.FeaturedProduct/Module.txt">
       <publishTime>03/22/2016 08:45:16</publishTime>
@@ -910,10 +958,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/15/2016 14:37:09</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.FeaturedProduct/Views/EditorTemplates/Parts/FeaturedProduct.cshtml">
-      <publishTime>03/21/2016 10:29:25</publishTime>
+      <publishTime>04/08/2016 08:47:22</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.FeaturedProduct/Views/Parts/FeaturedProduct.cshtml">
-      <publishTime>03/23/2016 15:36:10</publishTime>
+      <publishTime>04/08/2016 08:23:29</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.FeaturedProduct/Web.config">
       <publishTime>03/15/2016 15:25:23</publishTime>
@@ -1225,7 +1273,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/24/2016 14:51:02</publishTime>
     </File>
     <File Include="Modules/Lucene/bin/Lucene.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Lucene/bin/Lucene.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1240,16 +1288,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Markdown/bin/Markdown.dll">
-      <publishTime>03/24/2016 14:43:03</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Markdown/bin/Markdown.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Markdown/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Markdown/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Markdown/Content/Admin/Images/grippie.png">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1324,7 +1372,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Alias/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Alias/bin/Orchard.Alias.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1348,13 +1396,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.AntiSpam/bin/Orchard.AntiSpam.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:24</publishTime>
     </File>
     <File Include="Modules/Orchard.AntiSpam/bin/Orchard.AntiSpam.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.AntiSpam/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.AntiSpam/Content/Admin/Images/spam.gif">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1408,7 +1456,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ArchiveLater/bin/Orchard.ArchiveLater.dll">
-      <publishTime>03/24/2016 14:43:26</publishTime>
+      <publishTime>04/08/2016 08:36:45</publishTime>
     </File>
     <File Include="Modules/Orchard.ArchiveLater/bin/Orchard.ArchiveLater.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1435,37 +1483,37 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.AuditTrail.dll">
-      <publishTime>04/01/2016 15:55:39</publishTime>
+      <publishTime>04/08/2016 08:36:46</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.AuditTrail.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.ContentTypes.dll">
-      <publishTime>04/01/2016 15:55:32</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.ImportExport.dll">
-      <publishTime>03/24/2016 14:43:00</publishTime>
+      <publishTime>04/08/2016 08:36:20</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.Roles.dll">
-      <publishTime>03/24/2016 14:43:02</publishTime>
+      <publishTime>04/08/2016 08:36:17</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.TaskLease.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.Users.dll">
-      <publishTime>03/24/2016 14:42:58</publishTime>
+      <publishTime>04/08/2016 08:36:21</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.AuditTrail/bin/xmldiffpatch.dll">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1711,16 +1759,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Autoroute/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Autoroute/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Autoroute/bin/Orchard.Autoroute.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Autoroute/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Autoroute/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -1927,22 +1975,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/Orchard.Azure.MediaServices.dll">
-      <publishTime>03/24/2016 14:43:26</publishTime>
+      <publishTime>04/08/2016 08:36:47</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/Orchard.Azure.MediaServices.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/Orchard.PublishLater.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:22</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/Orchard.TaskLease.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure.MediaServices/bin/System.Spatial.dll">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2395,13 +2443,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure/bin/Orchard.Azure.dll">
-      <publishTime>03/24/2016 14:43:18</publishTime>
+      <publishTime>04/08/2016 08:36:33</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure/bin/Orchard.Azure.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure/bin/Orchard.OutputCache.dll">
-      <publishTime>03/24/2016 14:43:08</publishTime>
+      <publishTime>04/08/2016 08:36:22</publishTime>
     </File>
     <File Include="Modules/Orchard.Azure/bin/System.Spatial.dll">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2419,22 +2467,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/bin/Orchard.Blogs.dll">
-      <publishTime>03/24/2016 14:43:25</publishTime>
+      <publishTime>04/08/2016 08:36:48</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/bin/Orchard.Blogs.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/bin/Orchard.ContentPicker.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Blogs/Content/Admin/images/draft.gif">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2557,7 +2605,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Caching/bin/Orchard.Caching.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.Caching/bin/Orchard.Caching.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2569,7 +2617,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.CodeGeneration/bin/Orchard.CodeGeneration.dll">
-      <publishTime>03/24/2016 14:43:02</publishTime>
+      <publishTime>04/08/2016 08:36:16</publishTime>
     </File>
     <File Include="Modules/Orchard.CodeGeneration/bin/Orchard.CodeGeneration.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2626,19 +2674,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Comments/bin/Orchard.Comments.dll">
-      <publishTime>03/24/2016 14:43:05</publishTime>
+      <publishTime>04/08/2016 08:36:20</publishTime>
     </File>
     <File Include="Modules/Orchard.Comments/bin/Orchard.Comments.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Comments/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Comments/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Comments/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Comments/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2722,22 +2770,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/bin/Orchard.ContentPermissions.dll">
-      <publishTime>03/24/2016 14:43:27</publishTime>
+      <publishTime>04/08/2016 08:36:46</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/bin/Orchard.ContentPermissions.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/bin/Orchard.Roles.dll">
-      <publishTime>03/24/2016 14:43:02</publishTime>
+      <publishTime>04/08/2016 08:36:17</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPermissions/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2770,7 +2818,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPicker/bin/Orchard.ContentPicker.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentPicker/bin/Orchard.ContentPicker.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2836,13 +2884,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentTypes/bin/Orchard.ContentTypes.dll">
-      <publishTime>04/01/2016 15:55:32</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentTypes/bin/Orchard.ContentTypes.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentTypes/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.ContentTypes/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -2950,19 +2998,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.CustomForms/bin/Orchard.CustomForms.dll">
-      <publishTime>03/24/2016 14:43:29</publishTime>
+      <publishTime>04/08/2016 08:36:56</publishTime>
     </File>
     <File Include="Modules/Orchard.CustomForms/bin/Orchard.CustomForms.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.CustomForms/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.CustomForms/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.CustomForms/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.CustomForms/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3013,19 +3061,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.DesignerTools/bin/Orchard.DesignerTools.dll">
-      <publishTime>04/01/2016 15:55:34</publishTime>
+      <publishTime>04/08/2016 08:36:24</publishTime>
     </File>
     <File Include="Modules/Orchard.DesignerTools/bin/Orchard.DesignerTools.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.DesignerTools/bin/Orchard.Scripting.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.DesignerTools/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.DesignerTools/bin/Orchard.Widgets.dll">
-      <publishTime>04/01/2016 15:55:33</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.DesignerTools/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3139,52 +3187,52 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.AntiSpam.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:24</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.DynamicForms.dll">
-      <publishTime>04/01/2016 15:55:44</publishTime>
+      <publishTime>04/08/2016 08:37:02</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.DynamicForms.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Fields.dll">
-      <publishTime>03/24/2016 14:43:15</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Layouts.dll">
-      <publishTime>04/01/2016 15:55:37</publishTime>
+      <publishTime>04/08/2016 08:36:31</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Projections.dll">
-      <publishTime>03/24/2016 14:43:03</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Scripting.CSharp.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Taxonomies.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Users.dll">
-      <publishTime>03/24/2016 14:42:58</publishTime>
+      <publishTime>04/08/2016 08:36:21</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.DynamicForms/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3427,19 +3475,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Email/bin/Orchard.Email.dll">
-      <publishTime>03/24/2016 14:43:07</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Orchard.Email/bin/Orchard.Email.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Email/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Email/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Email/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Email/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3472,7 +3520,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Fields/bin/Orchard.Fields.dll">
-      <publishTime>03/24/2016 14:43:15</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.Fields/bin/Orchard.Fields.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3550,7 +3598,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Forms/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Forms/bin/Orchard.Forms.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3568,16 +3616,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ImageEditor/bin/Orchard.ImageEditor.dll">
-      <publishTime>03/24/2016 14:43:32</publishTime>
+      <publishTime>04/08/2016 08:36:43</publishTime>
     </File>
     <File Include="Modules/Orchard.ImageEditor/bin/Orchard.ImageEditor.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ImageEditor/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.ImageEditor/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.ImageEditor/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3667,7 +3715,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.ImportExport/bin/Orchard.ImportExport.dll">
-      <publishTime>03/24/2016 14:43:00</publishTime>
+      <publishTime>04/08/2016 08:36:20</publishTime>
     </File>
     <File Include="Modules/Orchard.ImportExport/bin/Orchard.ImportExport.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3697,7 +3745,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Indexing/bin/Orchard.Indexing.dll">
-      <publishTime>03/24/2016 14:43:05</publishTime>
+      <publishTime>04/08/2016 08:36:16</publishTime>
     </File>
     <File Include="Modules/Orchard.Indexing/bin/Orchard.Indexing.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3721,22 +3769,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/bin/Orchard.JobsQueue.dll">
-      <publishTime>03/24/2016 14:43:30</publishTime>
+      <publishTime>04/08/2016 08:36:56</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/bin/Orchard.JobsQueue.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/bin/Orchard.TaskLease.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.JobsQueue/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -3778,7 +3826,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.jQuery/bin/Orchard.jQuery.dll">
-      <publishTime>03/24/2016 14:43:30</publishTime>
+      <publishTime>04/08/2016 08:36:57</publishTime>
     </File>
     <File Include="Modules/Orchard.jQuery/bin/Orchard.jQuery.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -5236,34 +5284,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Markdown.dll">
-      <publishTime>03/24/2016 14:43:03</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Layouts.dll">
-      <publishTime>04/01/2016 15:55:37</publishTime>
+      <publishTime>04/08/2016 08:36:31</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Layouts.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Projections.dll">
-      <publishTime>03/24/2016 14:43:03</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Layouts/Data/Canvas.json">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -5680,7 +5728,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Lists/bin/Orchard.Lists.dll">
-      <publishTime>03/24/2016 14:43:42</publishTime>
+      <publishTime>04/08/2016 08:37:08</publishTime>
     </File>
     <File Include="Modules/Orchard.Lists/bin/Orchard.Lists.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -5815,19 +5863,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Localization/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Localization/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Localization/bin/Orchard.Localization.dll">
-      <publishTime>03/24/2016 14:43:16</publishTime>
+      <publishTime>04/08/2016 08:36:31</publishTime>
     </File>
     <File Include="Modules/Orchard.Localization/bin/Orchard.Localization.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Localization/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Localization/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -5881,7 +5929,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Media/bin/Orchard.Media.dll">
-      <publishTime>03/24/2016 14:43:01</publishTime>
+      <publishTime>04/08/2016 08:36:17</publishTime>
     </File>
     <File Include="Modules/Orchard.Media/bin/Orchard.Media.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -5935,13 +5983,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/bin/Orchard.MediaLibrary.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6070,7 +6118,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.cshtml">
-      <publishTime>10/15/2015 11:41:06</publishTime>
+      <publishTime>04/06/2016 15:21:31</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.Summary.cshtml">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6223,10 +6271,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaPicker/bin/Orchard.Media.dll">
-      <publishTime>03/24/2016 14:43:01</publishTime>
+      <publishTime>04/08/2016 08:36:17</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaPicker/bin/Orchard.MediaPicker.dll">
-      <publishTime>03/24/2016 14:43:29</publishTime>
+      <publishTime>04/08/2016 08:36:57</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaPicker/bin/Orchard.MediaPicker.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6304,16 +6352,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaProcessing/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaProcessing/bin/Orchard.MediaProcessing.dll">
-      <publishTime>03/24/2016 14:43:08</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaProcessing/bin/Orchard.MediaProcessing.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaProcessing/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaProcessing/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6349,7 +6397,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MessageBus/bin/Orchard.MessageBus.dll">
-      <publishTime>03/24/2016 14:43:15</publishTime>
+      <publishTime>04/08/2016 08:36:30</publishTime>
     </File>
     <File Include="Modules/Orchard.MessageBus/bin/Orchard.MessageBus.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6367,7 +6415,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Migrations/bin/Orchard.Migrations.dll">
-      <publishTime>03/24/2016 14:43:25</publishTime>
+      <publishTime>04/08/2016 08:36:44</publishTime>
     </File>
     <File Include="Modules/Orchard.Migrations/bin/Orchard.Migrations.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6379,7 +6427,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Modules/bin/Orchard.Modules.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Modules/bin/Orchard.Modules.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6439,7 +6487,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MultiTenancy/bin/Orchard.MultiTenancy.dll">
-      <publishTime>03/24/2016 14:43:26</publishTime>
+      <publishTime>04/08/2016 08:36:44</publishTime>
     </File>
     <File Include="Modules/Orchard.MultiTenancy/bin/Orchard.MultiTenancy.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6496,7 +6544,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.OutputCache/bin/Orchard.OutputCache.dll">
-      <publishTime>03/24/2016 14:43:08</publishTime>
+      <publishTime>04/08/2016 08:36:22</publishTime>
     </File>
     <File Include="Modules/Orchard.OutputCache/bin/Orchard.OutputCache.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6520,10 +6568,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Packaging/bin/Orchard.Modules.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Packaging/bin/Orchard.Packaging.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Packaging/bin/Orchard.Packaging.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6592,10 +6640,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Pages/bin/Orchard.ContentPicker.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.Pages/bin/Orchard.Pages.dll">
-      <publishTime>03/24/2016 14:43:26</publishTime>
+      <publishTime>04/08/2016 08:36:55</publishTime>
     </File>
     <File Include="Modules/Orchard.Pages/bin/Orchard.Pages.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6616,16 +6664,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Projections/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Projections/bin/Orchard.Projections.dll">
-      <publishTime>03/24/2016 14:43:03</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Orchard.Projections/bin/Orchard.Projections.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Projections/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Projections/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6718,7 +6766,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.PublishLater/bin/Orchard.PublishLater.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:22</publishTime>
     </File>
     <File Include="Modules/Orchard.PublishLater/bin/Orchard.PublishLater.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6763,22 +6811,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/bin/Orchard.ContentTypes.dll">
-      <publishTime>04/01/2016 15:55:32</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/bin/Orchard.Modules.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/bin/Orchard.Packaging.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/bin/Orchard.Recipes.dll">
-      <publishTime>04/01/2016 15:55:34</publishTime>
+      <publishTime>04/08/2016 08:36:16</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/bin/Orchard.Recipes.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Recipes/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6787,16 +6835,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Redis/bin/Orchard.Caching.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:25</publishTime>
     </File>
     <File Include="Modules/Orchard.Redis/bin/Orchard.MessageBus.dll">
-      <publishTime>03/24/2016 14:43:15</publishTime>
+      <publishTime>04/08/2016 08:36:30</publishTime>
     </File>
     <File Include="Modules/Orchard.Redis/bin/Orchard.OutputCache.dll">
-      <publishTime>03/24/2016 14:43:08</publishTime>
+      <publishTime>04/08/2016 08:36:22</publishTime>
     </File>
     <File Include="Modules/Orchard.Redis/bin/Orchard.Redis.dll">
-      <publishTime>03/24/2016 14:43:33</publishTime>
+      <publishTime>04/08/2016 08:36:53</publishTime>
     </File>
     <File Include="Modules/Orchard.Redis/bin/Orchard.Redis.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6811,19 +6859,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Roles/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Roles/bin/Orchard.Roles.dll">
-      <publishTime>03/24/2016 14:43:02</publishTime>
+      <publishTime>04/08/2016 08:36:17</publishTime>
     </File>
     <File Include="Modules/Orchard.Roles/bin/Orchard.Roles.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Roles/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Roles/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Roles/Content/Site.css">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6880,19 +6928,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Rules/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Rules/bin/Orchard.Rules.dll">
-      <publishTime>03/24/2016 14:43:28</publishTime>
+      <publishTime>04/08/2016 08:36:51</publishTime>
     </File>
     <File Include="Modules/Orchard.Rules/bin/Orchard.Rules.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Rules/bin/Orchard.Scripting.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Rules/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Rules/Content/Admin/images/offline.gif">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6946,19 +6994,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.CSharp/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.CSharp/bin/Orchard.Scripting.CSharp.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.CSharp/bin/Orchard.Scripting.CSharp.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.CSharp/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.CSharp/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.CSharp/Lib/Mono.CSharp.dll">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7000,10 +7048,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.Dlr/bin/Orchard.Scripting.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.Dlr/bin/Orchard.Scripting.Dlr.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:16</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting.Dlr/bin/Orchard.Scripting.Dlr.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7015,7 +7063,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting/bin/Orchard.Scripting.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Scripting/bin/Orchard.Scripting.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7027,16 +7075,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Search/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Search/bin/Orchard.Search.dll">
-      <publishTime>03/24/2016 14:43:30</publishTime>
+      <publishTime>04/08/2016 08:36:56</publishTime>
     </File>
     <File Include="Modules/Orchard.Search/bin/Orchard.Search.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Search/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Search/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7099,7 +7147,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.SecureSocketsLayer/bin/Orchard.SecureSocketsLayer.dll">
-      <publishTime>03/24/2016 14:43:30</publishTime>
+      <publishTime>04/08/2016 08:36:56</publishTime>
     </File>
     <File Include="Modules/Orchard.SecureSocketsLayer/bin/Orchard.SecureSocketsLayer.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7117,25 +7165,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.ContentTypes.dll">
-      <publishTime>04/01/2016 15:55:32</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.Modules.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.Packaging.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.Recipes.dll">
-      <publishTime>04/01/2016 15:55:34</publishTime>
+      <publishTime>04/08/2016 08:36:16</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.Setup.dll">
-      <publishTime>04/01/2016 15:55:35</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.Setup.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Setup/Content/synchronizing.gif">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7171,19 +7219,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Tags/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Tags/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Tags/bin/Orchard.Tags.dll">
-      <publishTime>03/24/2016 14:43:02</publishTime>
+      <publishTime>04/08/2016 08:36:21</publishTime>
     </File>
     <File Include="Modules/Orchard.Tags/bin/Orchard.Tags.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Tags/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Tags/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7240,7 +7288,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.TaskLease/bin/Orchard.TaskLease.dll">
-      <publishTime>03/24/2016 14:43:13</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.TaskLease/bin/Orchard.TaskLease.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7258,19 +7306,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Taxonomies/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Taxonomies/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Taxonomies/bin/Orchard.Taxonomies.dll">
-      <publishTime>03/24/2016 14:43:14</publishTime>
+      <publishTime>04/08/2016 08:36:23</publishTime>
     </File>
     <File Include="Modules/Orchard.Taxonomies/bin/Orchard.Taxonomies.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Taxonomies/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Taxonomies/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7390,16 +7438,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Templates/bin/Orchard.Templates.dll">
-      <publishTime>04/01/2016 15:55:41</publishTime>
+      <publishTime>04/08/2016 08:36:57</publishTime>
     </File>
     <File Include="Modules/Orchard.Templates/bin/Orchard.Templates.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Templates/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Templates/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Templates/Module.txt">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7603,7 +7651,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Themes/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Themes/bin/Orchard.Themes.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7654,7 +7702,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Tokens/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Tokens/bin/Orchard.Tokens.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7690,19 +7738,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Users/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Users/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Users/bin/Orchard.Users.dll">
-      <publishTime>03/24/2016 14:42:58</publishTime>
+      <publishTime>04/08/2016 08:36:21</publishTime>
     </File>
     <File Include="Modules/Orchard.Users/bin/Orchard.Users.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Users/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Users/Content/Admin/images/offline.gif">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7846,7 +7894,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Warmup/bin/Orchard.Warmup.dll">
-      <publishTime>03/24/2016 14:42:57</publishTime>
+      <publishTime>04/08/2016 08:36:16</publishTime>
     </File>
     <File Include="Modules/Orchard.Warmup/bin/Orchard.Warmup.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -7882,13 +7930,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Widgets/bin/Orchard.Scripting.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Widgets/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Orchard.Widgets/bin/Orchard.Widgets.dll">
-      <publishTime>04/01/2016 15:55:33</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Orchard.Widgets/bin/Orchard.Widgets.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -8002,13 +8050,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.Workflows/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Workflows/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Orchard.Workflows/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Orchard.Workflows/bin/Orchard.Workflows.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -8158,7 +8206,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/SysCache/bin/SysCache.dll">
-      <publishTime>03/24/2016 14:43:36</publishTime>
+      <publishTime>04/08/2016 08:37:07</publishTime>
     </File>
     <File Include="Modules/SysCache/bin/SysCache.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -8170,7 +8218,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/TinyMce/bin/TinyMce.dll">
-      <publishTime>03/24/2016 14:43:35</publishTime>
+      <publishTime>04/08/2016 08:37:07</publishTime>
     </File>
     <File Include="Modules/TinyMce/bin/TinyMce.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -8701,37 +8749,37 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Alias.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Autoroute.dll">
-      <publishTime>03/24/2016 14:42:59</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Email.dll">
-      <publishTime>03/24/2016 14:43:07</publishTime>
+      <publishTime>04/08/2016 08:36:19</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Forms.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.MediaLibrary.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Scripting.dll">
-      <publishTime>03/24/2016 14:42:54</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Themes.dll">
-      <publishTime>04/01/2016 15:55:30</publishTime>
+      <publishTime>04/08/2016 08:36:12</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Tokens.dll">
-      <publishTime>03/24/2016 14:42:55</publishTime>
+      <publishTime>04/08/2016 08:36:13</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Widgets.dll">
-      <publishTime>04/01/2016 15:55:33</publishTime>
+      <publishTime>04/08/2016 08:36:14</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Orchard.Workflows.dll">
-      <publishTime>03/24/2016 14:42:56</publishTime>
+      <publishTime>04/08/2016 08:36:15</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Upgrade.dll">
-      <publishTime>04/01/2016 15:55:43</publishTime>
+      <publishTime>04/08/2016 08:37:07</publishTime>
     </File>
     <File Include="Modules/Upgrade/bin/Upgrade.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -8777,6 +8825,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Refresh.html">
       <publishTime>10/15/2015 11:41:06</publishTime>
+    </File>
+    <File Include="Themes/packages.config">
+      <publishTime>04/07/2016 10:49:49</publishTime>
     </File>
     <File Include="Themes/SafeMode/Content/orchard.ico">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -8941,7 +8992,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/17/2016 14:36:58</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Styles/custom.css">
-      <publishTime>04/01/2016 09:39:22</publishTime>
+      <publishTime>04/07/2016 08:40:31</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Styles/Site.css">
       <publishTime>03/31/2016 09:02:25</publishTime>
@@ -8959,10 +9010,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Views/BadgeOfHonor.cshtml">
-      <publishTime>03/31/2016 11:24:14</publishTime>
+      <publishTime>04/06/2016 08:49:38</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Views/Branding.cshtml">
       <publishTime>10/15/2015 11:41:06</publishTime>
+    </File>
+    <File Include="Themes/TheThemeMachine/Views/Fields/MediaLibraryPicker.cshtml">
+      <publishTime>04/07/2016 10:49:45</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Views/Layout.cshtml">
       <publishTime>04/05/2016 15:40:16</publishTime>
@@ -8977,10 +9031,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Themes/Web.config">
-      <publishTime>10/15/2015 11:41:06</publishTime>
+      <publishTime>04/07/2016 10:49:49</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/01/2016 12:23:12</publishTime>
+      <publishTime>04/08/2016 08:41:48</publishTime>
     </File>
   </ItemGroup>
 </Project>

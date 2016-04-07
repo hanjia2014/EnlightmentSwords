@@ -1,9 +1,5 @@
-﻿@{ 
-    var imgLinke = string.Empty;
-    imgLinke = string.IsNullOrEmpty(Model.ImageUrl) ? Model.Image.FirstMediaUrl : Model.ImageUrl;
-}
-<div class="row">
-    <div class="span-5 cell"><a href="@imgLinke"><img src="@Model.Image.FirstMediaUrl" /></a></div>
+﻿<div class="row">
+    <div class="span-5 cell"><a href="@Model.ImageUrl"><img src="@Model.ImgLink" /></a></div>
     <div class="span-4 cell">
         <table class="product-tabl">
             <tr>

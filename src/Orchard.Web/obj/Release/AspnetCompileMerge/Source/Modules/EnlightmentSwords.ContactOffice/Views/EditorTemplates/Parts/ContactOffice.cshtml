@@ -1,0 +1,46 @@
+﻿@model EnlightmentSwords.ContactOffice.Models.ContactOfficePart
+
+<fieldset>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Name)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Name)
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Telephone)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Telephone)
+        @Html.ValidationMessageFor(model => model.Telephone)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.FAX)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.FAX)
+        @Html.ValidationMessageFor(model => model.FAX)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Email)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Email)
+        @Html.ValidationMessageFor(model => model.Email)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.MSN)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.MSN)
+        @Html.ValidationMessageFor(model => model.MSN)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.SkypeId)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.SkypeId)
+        @Html.ValidationMessageFor(model => model.SkypeId)
+    </div>
+</fieldset>

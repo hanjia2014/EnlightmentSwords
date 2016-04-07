@@ -1,0 +1,51 @@
+﻿<div class="row">
+    <div class="span-5 cell"><a href="@Model.ImageUrl"><img src="@Model.ImgLink" /></a></div>
+    <div class="span-4 cell">
+        <table class="product-tabl">
+            <tr>
+                <td class="property-name"><div align="left">Code</div></td>
+                <td class="property-value"><div align="left">@Model.Code</div></td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Name</div></td>
+                <td class="property-value"><div align="left">@Model.Name</div></td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Blade Length </div></td>
+                <td class="property-value"><div align="left">@Model.BladeLength cm </div></td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Total Length </div></td>
+                <td class="property-value"><div align="left">@Model.TotalLength cm </div></td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Weight</div></td>
+                <td class="property-value">
+                    <div align="left">
+                        @Model.Weight g
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Construction</div></td>
+                <td class="property-value">
+                    <div align="left">
+                        @Model.Construction
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Hand Guard</div></td>
+                <td class="property-value"><div align="left">@Model.HandGuard</div></td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Wood</div></td>
+                <td class="property-value"><div align="left">@Model.Wood</div></td>
+            </tr>
+            <tr>
+                <td class="property-name"><div align="left">Price</div></td>
+                <td class="property-value"><div align="left">@Model.Price.ToString("C")</div></td>
+            </tr>
+        </table>
+    </div>
+</div>
