@@ -42,3 +42,4 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\bin\System
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\bin\Iesi.Collections.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.Caching\obj\Debug\Orchard.Caching.csprojResolveAssemblyReference.cache

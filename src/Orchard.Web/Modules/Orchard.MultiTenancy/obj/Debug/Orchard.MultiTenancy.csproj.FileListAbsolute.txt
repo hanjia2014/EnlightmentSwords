@@ -5,3 +5,4 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\S
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\System.Web.Mvc.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.csprojResolveAssemblyReference.cache

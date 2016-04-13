@@ -4,3 +4,4 @@ C:\Projects\EnlightmentSwords\src\Orchard.Profile\bin\Debug\nunit.framework.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Profile\bin\Debug\TechTalk.SpecFlow.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Profile\obj\Debug\Orchard.Profile.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Profile\obj\Debug\Orchard.Profile.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Profile\obj\Debug\Orchard.Profile.csprojResolveAssemblyReference.cache
