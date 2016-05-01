@@ -43,6 +43,12 @@
     <References />
   </Dependency>
   <Dependency>
+    <ModuleName>EnlightenmentSwords.FacebookPlugin</ModuleName>
+    <VirtualPath>~/Modules/EnlightenmentSwords.FacebookPlugin/EnlightenmentSwords.FacebookPlugin.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>Orchard.Tokens</ModuleName>
     <VirtualPath>~/Modules/Orchard.Tokens/bin/Orchard.Tokens.dll</VirtualPath>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>

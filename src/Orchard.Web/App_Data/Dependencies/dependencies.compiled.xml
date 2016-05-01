@@ -7,6 +7,12 @@
     <Hash>927c9f1f763379db</Hash>
   </Dependency>
   <Dependency>
+    <ExtensionId>EnlightenmentSwords.FacebookPlugin</ExtensionId>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightenmentSwords.FacebookPlugin/EnlightenmentSwords.FacebookPlugin.csproj</VirtualPath>
+    <Hash>6c90d35585c759d9</Hash>
+  </Dependency>
+  <Dependency>
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
