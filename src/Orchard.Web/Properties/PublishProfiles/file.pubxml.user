@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="App_Data/Sites/Default/Orchard.sdf">
-      <publishTime>04/13/2016 11:30:53</publishTime>
+      <publishTime>04/13/2016 14:16:45</publishTime>
     </File>
     <File Include="App_Data/Sites/Default/reports.dat">
       <publishTime>03/15/2016 14:17:44</publishTime>
@@ -166,10 +166,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Config/HostComponents.config">
-      <publishTime>04/13/2016 12:02:24</publishTime>
+      <publishTime>04/14/2016 10:10:53</publishTime>
     </File>
     <File Include="Config/log4net.config">
-      <publishTime>04/13/2016 12:02:24</publishTime>
+      <publishTime>04/14/2016 10:10:53</publishTime>
     </File>
     <File Include="Config/Sites.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -6436,7 +6436,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.SummaryAdmin.cshtml">
-      <publishTime>10/15/2015 11:41:06</publishTime>
+      <publishTime>04/13/2016 13:37:55</publishTime>
     </File>
     <File Include="Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -9329,6 +9329,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Themes/TheThemeMachine/Views/Fields/MediaLibraryPicker.cshtml">
       <publishTime>04/07/2016 10:49:45</publishTime>
+    </File>
+    <File Include="Themes/TheThemeMachine/Views/Fields/MediaLibraryPicker.Summary.cshtml">
+      <publishTime>04/13/2016 13:41:27</publishTime>
+    </File>
+    <File Include="Themes/TheThemeMachine/Views/Fields/MediaLibraryPicker.SummaryAdmin.cshtml">
+      <publishTime>04/13/2016 13:39:41</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Views/Layout.cshtml">
       <publishTime>04/05/2016 15:40:16</publishTime>
