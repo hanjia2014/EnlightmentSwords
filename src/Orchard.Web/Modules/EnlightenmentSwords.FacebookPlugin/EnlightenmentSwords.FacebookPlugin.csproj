@@ -123,6 +123,9 @@
     <Content Include="packages.config" />
     <Content Include="Views\Parts\FacebookPlugin.cshtml" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\EditorTemplates\Parts\FacebookPlugin.cshtml" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

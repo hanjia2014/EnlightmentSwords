@@ -1,0 +1,83 @@
+﻿@model EnlightenmentSwords.FacebookPlugin.Models.FacebookPluginPart
+
+@{ 
+    Model.ShowFacepile = true;
+    Model.AdaptContainerWidth = true;
+    Model.Tabs = "timeline";
+    Model.Height = 500;
+    Model.Width = 340;
+    Model.FacebookPage = "https://www.facebook.com/enlightenmentswords";
+}
+
+<fieldset>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.FacebookPage)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.FacebookPage)
+        @Html.ValidationMessageFor(model => model.FacebookPage)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Width)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Width)
+        @Html.ValidationMessageFor(model => model.Width)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Height)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Height)
+        @Html.ValidationMessageFor(model => model.Height)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Tabs)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(model => model.Tabs)
+        @Html.ValidationMessageFor(model => model.Tabs)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.HideCover)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.HideCover)
+        @Html.ValidationMessageFor(model => model.HideCover)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.ShowFacepile)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.ShowFacepile)
+        @Html.ValidationMessageFor(model => model.ShowFacepile)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.HideCta)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.HideCta)
+        @Html.ValidationMessageFor(model => model.HideCta)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.SmallHeader)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.SmallHeader)
+        @Html.ValidationMessageFor(model => model.SmallHeader)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.AdaptContainerWidth)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.AdaptContainerWidth)
+        @Html.ValidationMessageFor(model => model.AdaptContainerWidth)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.ShowPosts)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(model => model.ShowPosts)
+        @Html.ValidationMessageFor(model => model.ShowPosts)
+    </div>
+</fieldset>
