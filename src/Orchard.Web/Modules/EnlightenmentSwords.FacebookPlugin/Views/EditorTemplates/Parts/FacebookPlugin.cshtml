@@ -49,7 +49,7 @@
             @Html.LabelFor(model => model.HideCover)
         </div>
         <div class="editor-field">
-            @Html.CheckBoxFor(model => model.HideCover)
+            @Html.CheckBoxFor(model => model.HideCover, new { ng_model = "hideCover", ng_init = Model.HideCover })
             @Html.ValidationMessageFor(model => model.HideCover)
         </div>
         <div class="editor-label">
@@ -89,6 +89,9 @@
         </div>
     </fieldset>
 
+    <span>Click <span style="color:orangered">"Save"</span> button to refresh the preview</span>
+
+    <h2>Preview</h2>
     <div class="fb-page" data-href="@Model.FacebookPage" data-tabs="@Model.Tabs" data-small-header="@Model.SmallHeader" data-adapt-container-width="@Model.AdaptContainerWidth" data-hide-cover="@Model.HideCover" data-show-facepile="@Model.ShowFacepile" data-show-posts="@Model.ShowPosts" data-hide-cta="@Model.HideCta">
         <div class="fb-xfbml-parse-ignore">
             <blockquote cite="@Model.FacebookPage">
