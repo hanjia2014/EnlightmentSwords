@@ -1,5 +1,4 @@
 ﻿@model EnlightenmentSwords.FacebookPlugin.Models.FacebookPluginPart
-
 @{ 
     if (string.IsNullOrEmpty(Model.FacebookPage))
     {
@@ -10,77 +9,106 @@
         Model.Width = 340;
         Model.FacebookPage = "https://www.facebook.com/enlightenmentswords";
     }
+    Script.Include("lib/angular.js");
+    Script.Include("app.js");
+    Script.Include("editorController.js");
 }
 
-<fieldset>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.FacebookPage)
+
+<div ng-app="facebookApp" ng-controller="editorController">
+    <fieldset>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FacebookPage)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.FacebookPage)
+            @Html.ValidationMessageFor(model => model.FacebookPage)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Width)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Width, new { placeholder = "Min. is 180 & Max. is 500" })
+            @Html.ValidationMessageFor(model => model.Width)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Height)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Height, new { placeholder = "Min. is 70" })
+            @Html.ValidationMessageFor(model => model.Height)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Tabs)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Tabs, new { placeholder = "i.e. timeline, events, messages" })
+            @Html.ValidationMessageFor(model => model.Tabs)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.HideCover)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.HideCover)
+            @Html.ValidationMessageFor(model => model.HideCover)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ShowFacepile)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.ShowFacepile)
+            @Html.ValidationMessageFor(model => model.ShowFacepile)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.HideCta)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.HideCta)
+            @Html.ValidationMessageFor(model => model.HideCta)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SmallHeader)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.SmallHeader)
+            @Html.ValidationMessageFor(model => model.SmallHeader)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.AdaptContainerWidth)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.AdaptContainerWidth)
+            @Html.ValidationMessageFor(model => model.AdaptContainerWidth)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ShowPosts)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.ShowPosts)
+            @Html.ValidationMessageFor(model => model.ShowPosts)
+        </div>
+    </fieldset>
+
+    <div class="fb-page" data-href="@Model.FacebookPage" data-tabs="@Model.Tabs" data-small-header="@Model.SmallHeader" data-adapt-container-width="@Model.AdaptContainerWidth" data-hide-cover="@Model.HideCover" data-show-facepile="@Model.ShowFacepile" data-show-posts="@Model.ShowPosts" data-hide-cta="@Model.HideCta">
+        <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="@Model.FacebookPage">
+                <a href="@Model.FacebookPage">
+                    Enlightenmentswords
+                </a>
+            </blockquote>
+        </div>
     </div>
-    <div class="editor-field">
-        @Html.TextBoxFor(model => model.FacebookPage)
-        @Html.ValidationMessageFor(model => model.FacebookPage)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.Width)
-    </div>
-    <div class="editor-field">
-        @Html.TextBoxFor(model => model.Width, new { placeholder = "Min. is 180 & Max. is 500"})
-        @Html.ValidationMessageFor(model => model.Width)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.Height)
-    </div>
-    <div class="editor-field">
-        @Html.TextBoxFor(model => model.Height, new { placeholder = "Min. is 70" })
-        @Html.ValidationMessageFor(model => model.Height)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.Tabs)
-    </div>
-    <div class="editor-field">
-        @Html.TextBoxFor(model => model.Tabs, new { placeholder = "i.e. timeline, events, messages" })
-        @Html.ValidationMessageFor(model => model.Tabs)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.HideCover)
-    </div>
-    <div class="editor-field">
-        @Html.CheckBoxFor(model => model.HideCover)
-        @Html.ValidationMessageFor(model => model.HideCover)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.ShowFacepile)
-    </div>
-    <div class="editor-field">
-        @Html.CheckBoxFor(model => model.ShowFacepile)
-        @Html.ValidationMessageFor(model => model.ShowFacepile)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.HideCta)
-    </div>
-    <div class="editor-field">
-        @Html.CheckBoxFor(model => model.HideCta)
-        @Html.ValidationMessageFor(model => model.HideCta)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.SmallHeader)
-    </div>
-    <div class="editor-field">
-        @Html.CheckBoxFor(model => model.SmallHeader)
-        @Html.ValidationMessageFor(model => model.SmallHeader)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.AdaptContainerWidth)
-    </div>
-    <div class="editor-field">
-        @Html.CheckBoxFor(model => model.AdaptContainerWidth)
-        @Html.ValidationMessageFor(model => model.AdaptContainerWidth)
-    </div>
-    <div class="editor-label">
-        @Html.LabelFor(model => model.ShowPosts)
-    </div>
-    <div class="editor-field">
-        @Html.CheckBoxFor(model => model.ShowPosts)
-        @Html.ValidationMessageFor(model => model.ShowPosts)
-    </div>
-</fieldset>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+</div>
