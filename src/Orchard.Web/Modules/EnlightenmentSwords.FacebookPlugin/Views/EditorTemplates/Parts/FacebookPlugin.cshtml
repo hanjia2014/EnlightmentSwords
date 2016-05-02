@@ -1,12 +1,12 @@
 ﻿@model EnlightenmentSwords.FacebookPlugin.Models.FacebookPluginPart
 
 @{ 
-    Model.ShowFacepile = true;
-    Model.AdaptContainerWidth = true;
-    Model.Tabs = "timeline";
-    Model.Height = 500;
-    Model.Width = 340;
-    Model.FacebookPage = "https://www.facebook.com/enlightenmentswords";
+//Model.ShowFacepile = true;
+//Model.AdaptContainerWidth = true;
+//Model.Tabs = "timeline";
+//Model.Height = 500;
+//Model.Width = 340;
+//Model.FacebookPage = "https://www.facebook.com/enlightenmentswords";
 }
 
 <fieldset>
@@ -35,7 +35,7 @@
         @Html.LabelFor(model => model.Tabs)
     </div>
     <div class="editor-field">
-        @Html.TextBoxFor(model => model.Tabs)
+        @Html.TextBoxFor(model => model.Tabs, new { placeholder = "i.e. timeline, events, messages" })
         @Html.ValidationMessageFor(model => model.Tabs)
     </div>
     <div class="editor-label">

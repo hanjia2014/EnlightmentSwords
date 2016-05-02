@@ -10,7 +10,7 @@
     <ExtensionId>EnlightenmentSwords.FacebookPlugin</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/EnlightenmentSwords.FacebookPlugin/EnlightenmentSwords.FacebookPlugin.csproj</VirtualPath>
-    <Hash>6c90d35585c759d9</Hash>
+    <Hash>fbff6ce36cf4c278</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>
