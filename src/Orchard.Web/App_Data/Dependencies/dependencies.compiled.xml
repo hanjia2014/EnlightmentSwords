@@ -2,27 +2,27 @@
 <Dependencies>
   <Dependency>
     <ExtensionId>Business</ExtensionId>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/Business/bin/Business.dll</VirtualPath>
-    <Hash>927c9f1f763379db</Hash>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Business/Business.csproj</VirtualPath>
+    <Hash>68772c61a423bcd7</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightenmentSwords.FacebookPlugin</ExtensionId>
     <LoaderName>DynamicExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/EnlightenmentSwords.FacebookPlugin/EnlightenmentSwords.FacebookPlugin.csproj</VirtualPath>
-    <Hash>fbff6d6339ac1c20</Hash>
+    <Hash>fbff962754a4c8d3</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.ContactOffice</ExtensionId>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
-    <Hash>49399b8afad6629c</Hash>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/EnlightmentSwords.ContactOffice.csproj</VirtualPath>
+    <Hash>4700980032fe0372</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>EnlightmentSwords.FeaturedProduct</ExtensionId>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
-    <Hash>dbfdfc74f0c0e487</Hash>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj</VirtualPath>
+    <Hash>b8419f8417e21230</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Lucene</ExtensionId>

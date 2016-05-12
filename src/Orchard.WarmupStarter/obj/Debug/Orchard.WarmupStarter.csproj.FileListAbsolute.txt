@@ -2,3 +2,4 @@ C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\bin\Debug\Orchard.Warmup
 C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
 C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
 C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
