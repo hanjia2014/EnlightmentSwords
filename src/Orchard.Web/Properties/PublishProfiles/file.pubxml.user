@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="App_Data/Sites/Default/Orchard.sdf">
-      <publishTime>04/13/2016 14:16:45</publishTime>
+      <publishTime>05/12/2016 17:37:28</publishTime>
     </File>
     <File Include="App_Data/Sites/Default/reports.dat">
       <publishTime>03/15/2016 14:17:44</publishTime>
@@ -55,7 +55,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="bin/HostRestart/marker.txt">
-      <publishTime>03/23/2016 15:35:01</publishTime>
+      <publishTime>05/03/2016 09:35:07</publishTime>
     </File>
     <File Include="bin/Iesi.Collections.dll">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -88,19 +88,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="bin/Orchard.Core.dll">
-      <publishTime>03/23/2016 09:03:05</publishTime>
+      <publishTime>05/12/2016 18:06:04</publishTime>
     </File>
     <File Include="bin/Orchard.exe">
-      <publishTime>03/23/2016 09:03:02</publishTime>
+      <publishTime>05/12/2016 18:06:01</publishTime>
     </File>
     <File Include="bin/Orchard.Framework.dll">
-      <publishTime>03/23/2016 09:03:03</publishTime>
+      <publishTime>05/12/2016 18:06:03</publishTime>
     </File>
     <File Include="bin/Orchard.WarmupStarter.dll">
-      <publishTime>03/23/2016 09:03:02</publishTime>
+      <publishTime>05/12/2016 18:06:01</publishTime>
     </File>
     <File Include="bin/Orchard.Web.dll">
-      <publishTime>04/13/2016 12:01:07</publishTime>
+      <publishTime>05/12/2016 18:06:04</publishTime>
     </File>
     <File Include="bin/Orchard.Web.dll.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -166,10 +166,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/15/2015 11:41:06</publishTime>
     </File>
     <File Include="Config/HostComponents.config">
-      <publishTime>04/14/2016 10:10:53</publishTime>
+      <publishTime>05/12/2016 18:11:03</publishTime>
     </File>
     <File Include="Config/log4net.config">
-      <publishTime>04/14/2016 10:10:53</publishTime>
+      <publishTime>05/12/2016 18:11:03</publishTime>
     </File>
     <File Include="Config/Sites.config">
       <publishTime>10/15/2015 11:41:06</publishTime>
@@ -872,6 +872,69 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Modules/Business/Web.config">
       <publishTime>03/24/2016 08:25:37</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Assets.json">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Assets/Styles.less">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/bin/EnlightenmentSwords.FacebookPlugin.dll">
+      <publishTime>05/02/2016 08:53:09</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/bin/EnlightenmentSwords.FacebookPlugin.dll.config">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Module.txt">
+      <publishTime>05/02/2016 08:54:10</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/packages.config">
+      <publishTime>05/02/2016 09:18:29</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Placement.info">
+      <publishTime>05/02/2016 17:59:56</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/app.js">
+      <publishTime>05/03/2016 08:56:10</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/editorController.js">
+      <publishTime>05/03/2016 16:31:51</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/lib/angular-resource.js">
+      <publishTime>05/03/2016 08:42:36</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/lib/angular-sanitize.js">
+      <publishTime>05/03/2016 08:42:36</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/lib/angular.js">
+      <publishTime>05/03/2016 08:42:36</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/lib/sortable.js">
+      <publishTime>05/03/2016 08:42:36</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/lib/underscore.js">
+      <publishTime>05/03/2016 08:42:36</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Scripts/Web.config">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Styles/Styles.css">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Styles/Styles.min.css">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Styles/Web.config">
+      <publishTime>05/02/2016 08:52:39</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Views/EditorTemplates/Parts/FacebookPlugin.cshtml">
+      <publishTime>05/03/2016 16:36:57</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Views/Parts/FacebookPlugin.cshtml">
+      <publishTime>05/12/2016 17:37:54</publishTime>
+    </File>
+    <File Include="Modules/EnlightenmentSwords.FacebookPlugin/Web.config">
+      <publishTime>05/02/2016 09:18:29</publishTime>
     </File>
     <File Include="Modules/EnlightmentSwords.ContactOffice/Assets.json">
       <publishTime>03/21/2016 09:03:44</publishTime>
@@ -9337,7 +9400,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/13/2016 13:39:41</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Views/Layout.cshtml">
-      <publishTime>04/05/2016 15:40:16</publishTime>
+      <publishTime>05/03/2016 08:40:45</publishTime>
     </File>
     <File Include="Themes/TheThemeMachine/Views/Pager.cshtml">
       <publishTime>10/15/2015 11:41:06</publishTime>
