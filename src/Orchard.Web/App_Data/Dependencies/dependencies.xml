@@ -2,19 +2,19 @@
 <Dependencies>
   <Dependency>
     <ModuleName>EnlightmentSwords.ContactOffice</ModuleName>
-    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/EnlightmentSwords.ContactOffice.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>
     <ModuleName>Business</ModuleName>
-    <VirtualPath>~/Modules/Business/Business.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Business/bin/Business.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>EnlightmentSwords.ContactOffice</Name>
-        <LoaderName>DynamicExtensionLoader</LoaderName>
-        <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/EnlightmentSwords.ContactOffice.csproj</VirtualPath>
+        <LoaderName>PrecompiledExtensionLoader</LoaderName>
+        <VirtualPath>~/Modules/EnlightmentSwords.ContactOffice/bin/EnlightmentSwords.ContactOffice.dll</VirtualPath>
       </Reference>
     </References>
   </Dependency>
@@ -44,8 +44,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>EnlightenmentSwords.FacebookPlugin</ModuleName>
-    <VirtualPath>~/Modules/EnlightenmentSwords.FacebookPlugin/EnlightenmentSwords.FacebookPlugin.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightenmentSwords.FacebookPlugin/bin/EnlightenmentSwords.FacebookPlugin.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>
@@ -68,8 +68,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>EnlightmentSwords.FeaturedProduct</ModuleName>
-    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/EnlightmentSwords.FeaturedProduct.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/EnlightmentSwords.FeaturedProduct/bin/EnlightmentSwords.FeaturedProduct.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>Orchard.MediaLibrary</Name>

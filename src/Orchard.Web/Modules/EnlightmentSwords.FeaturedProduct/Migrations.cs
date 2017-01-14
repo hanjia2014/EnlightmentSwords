@@ -30,5 +30,17 @@ namespace EnlightmentSwords.FeaturedProduct
 
             return 1;
         }
+
+        public int UpdateFrom1()
+        {
+            SchemaBuilder.AlterTable("FeaturedProductPartRecord", table => table.DropColumn("Price"));
+            return 2;
+        }
+
+        public int UpdateFrom2()
+        {
+            SchemaBuilder.AlterTable("FeaturedProductPartRecord", table => table.AddColumn("Price", DbType.String));
+            return 3;
+        }
     }
 }

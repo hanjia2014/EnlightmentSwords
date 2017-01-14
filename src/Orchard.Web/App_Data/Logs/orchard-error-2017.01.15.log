@@ -1,0 +1,97 @@
+2017-01-15 11:07:59,663 [15] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/New%20Swords/sword_PNG5526.png storagePath:New Swords\sword_PNG5526.png
+ http://localhost:30321/Admin/Contents/List
+System.ArgumentException: File New Swords\sword_PNG5526.png does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:08:35,636 [16] NHibernate.Event.Default.AbstractFlushingEventListener - (null) - Could not synchronize database state with session
+ (null)
+NHibernate.Exceptions.GenericADOException: could not update: [EnlightmentSwords.FeaturedProduct.Models.FeaturedProductPartRecord#90][SQL: UPDATE EnlightmentSwords_FeaturedProduct_FeaturedProductPartRecord SET Code = ?, Name = ?, Construction = ?, HandGuard = ?, Wood = ?, BladeLength = ?, TotalLength = ?, Weight = ?, Price = ?, ImageUrl = ? WHERE Id = ?] ---> System.Data.SqlServerCe.SqlCeException: Data conversion failed. [ OLE DB status value (if known) = 2 ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   --- End of inner exception stack trace ---
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.UpdateOrInsert(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Int32[] dirtyFields, Boolean hasDirtyCollection, Object[] oldFields, Object oldVersion, Object obj, Object rowId, ISessionImplementor session)
+   at NHibernate.Action.EntityUpdateAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2017-01-15 11:10:47,923 [13] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/New%20Swords/sword_PNG5526.png storagePath:New Swords\sword_PNG5526.png
+ http://localhost:30321/Admin/Contents/List
+System.ArgumentException: File New Swords\sword_PNG5526.png does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:11:13,389 [16] NHibernate.Event.Default.AbstractFlushingEventListener - (null) - Could not synchronize database state with session
+ (null)
+NHibernate.Exceptions.GenericADOException: could not update: [EnlightmentSwords.FeaturedProduct.Models.FeaturedProductPartRecord#88][SQL: UPDATE EnlightmentSwords_FeaturedProduct_FeaturedProductPartRecord SET Code = ?, Name = ?, Construction = ?, HandGuard = ?, Wood = ?, BladeLength = ?, TotalLength = ?, Weight = ?, Price = ?, ImageUrl = ? WHERE Id = ?] ---> System.Data.SqlServerCe.SqlCeException: Data conversion failed. [ OLE DB status value (if known) = 2 ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   --- End of inner exception stack trace ---
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.UpdateOrInsert(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Int32[] dirtyFields, Boolean hasDirtyCollection, Object[] oldFields, Object oldVersion, Object obj, Object rowId, ISessionImplementor session)
+   at NHibernate.Action.EntityUpdateAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2017-01-15 11:11:32,298 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/Site/Screen%20Shot%202016-05-01%20at%2011.58.16%20pm.png storagePath:Site\Screen Shot 2016-05-01 at 11.58.16 pm.png
+ http://localhost:30321/Admin/Orchard.MediaLibrary/MediaItems?folderPath=&skip=0&count=20&order=created&mediaType=&_=1484431891956
+System.ArgumentException: File Site\Screen Shot 2016-05-01 at 11.58.16 pm.png does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:11:32,397 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/Site/btn_xpressCheckout.gif storagePath:Site\btn_xpressCheckout.gif
+ http://localhost:30321/Admin/Orchard.MediaLibrary/MediaItems?folderPath=&skip=0&count=20&order=created&mediaType=&_=1484431891956
+System.ArgumentException: File Site\btn_xpressCheckout.gif does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:11:32,474 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/Site/facebook_2015_logo_detail.png storagePath:Site\facebook_2015_logo_detail.png
+ http://localhost:30321/Admin/Orchard.MediaLibrary/MediaItems?folderPath=&skip=0&count=20&order=created&mediaType=&_=1484431891956
+System.ArgumentException: File Site\facebook_2015_logo_detail.png does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:11:32,569 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/New%20Swords/sword_PNG5526.png storagePath:New Swords\sword_PNG5526.png
+ http://localhost:30321/Admin/Orchard.MediaLibrary/MediaItems?folderPath=&skip=0&count=20&order=created&mediaType=&_=1484431891956
+System.ArgumentException: File New Swords\sword_PNG5526.png does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:11:32,641 [16] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/General/lian_wu_tang_titlebar.jpg storagePath:General\lian_wu_tang_titlebar.jpg
+ http://localhost:30321/Admin/Orchard.MediaLibrary/MediaItems?folderPath=&skip=0&count=20&order=created&mediaType=&_=1484431891956
+System.ArgumentException: File General\lian_wu_tang_titlebar.jpg does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)
+2017-01-15 11:12:00,406 [3] NHibernate.Event.Default.AbstractFlushingEventListener - (null) - Could not synchronize database state with session
+ (null)
+NHibernate.Exceptions.GenericADOException: could not update: [EnlightmentSwords.FeaturedProduct.Models.FeaturedProductPartRecord#113][SQL: UPDATE EnlightmentSwords_FeaturedProduct_FeaturedProductPartRecord SET Code = ?, Name = ?, Construction = ?, HandGuard = ?, Wood = ?, BladeLength = ?, TotalLength = ?, Weight = ?, Price = ?, ImageUrl = ? WHERE Id = ?] ---> System.Data.SqlServerCe.SqlCeException: Data conversion failed. [ OLE DB status value (if known) = 2 ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteNonQuery(IDbCommand cmd)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   --- End of inner exception stack trace ---
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.UpdateOrInsert(Object id, Object[] fields, Object[] oldFields, Object rowId, Boolean[] includeProperty, Int32 j, Object oldVersion, Object obj, SqlCommandInfo sql, ISessionImplementor session)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Update(Object id, Object[] fields, Int32[] dirtyFields, Boolean hasDirtyCollection, Object[] oldFields, Object oldVersion, Object obj, Object rowId, ISessionImplementor session)
+   at NHibernate.Action.EntityUpdateAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2017-01-15 11:24:30,807 [10] Orchard.MediaProcessing.Services.ImageProfileManager - Default - path:/Media/Default/New%20Swords/sword_PNG5526.png storagePath:New Swords\sword_PNG5526.png
+ http://localhost:30321/Admin/Contents/List
+System.ArgumentException: File New Swords\sword_PNG5526.png does not exist
+   at Orchard.FileSystems.Media.FileSystemStorageProvider.GetFile(String path) in C:\Projects\EnlightmentSwords\src\Orchard\FileSystems\Media\FileSystemStorageProvider.cs:line 114
+   at Orchard.MediaProcessing.Services.ImageProfileManager.GetImage(String path)

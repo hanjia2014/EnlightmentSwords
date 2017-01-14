@@ -29,7 +29,6 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.Facebo
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\System.Web.Razor.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\System.Web.WebPages.Razor.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\System.Web.WebPages.xml
-C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\Microsoft.Web.Infrastructure.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\System.Web.Http.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\Autofac.xml
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\Microsoft.Owin.xml
@@ -45,3 +44,5 @@ C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.Facebo
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\obj\Debug\EnlightenmentSwords.FacebookPlugin.csprojResolveAssemblyReference.cache
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\obj\Debug\EnlightenmentSwords.FacebookPlugin.dll
 C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\obj\Debug\EnlightenmentSwords.FacebookPlugin.pdb
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\System.Web.Helpers.dll
+C:\Projects\EnlightmentSwords\src\Orchard.Web\Modules\EnlightenmentSwords.FacebookPlugin\bin\System.Web.Helpers.xml

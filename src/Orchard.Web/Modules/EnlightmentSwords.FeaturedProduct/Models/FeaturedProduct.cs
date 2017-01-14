@@ -14,7 +14,7 @@ namespace EnlightmentSwords.FeaturedProduct.Models
         public virtual int BladeLength { get; set; }
         public virtual int TotalLength { get; set; }
         public virtual int Weight { get; set; }
-        public virtual double Price { get; set; }
+        public virtual string Price { get; set; }
         public virtual string ImageUrl { get; set; }
     }
 
@@ -30,8 +30,7 @@ namespace EnlightmentSwords.FeaturedProduct.Models
         public int BladeLength { get { return Retrieve(r => r.BladeLength); } set { Store(r => r.BladeLength, value); } }
         public int TotalLength { get { return Retrieve(r => r.TotalLength); } set { Store(r => r.TotalLength, value); } }
         public int Weight { get { return Retrieve(r => r.Weight); } set { Store(r => r.Weight, value); } }
-        [Required]
-        public double Price { get { return Retrieve(r => r.Price); } set { Store(r => r.Price, value); } }
+        public string Price { get { return Retrieve(r => r.Price); } set { Store(r => r.Price, value); } }
         public string ImageUrl { get { return Retrieve(r => r.ImageUrl); } set { Store(r => r.ImageUrl, value); } }
     }
 }
